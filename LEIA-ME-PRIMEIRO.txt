@@ -1,0 +1,45 @@
+ROBÔ NA NUVEM — @diretonaquestao
+Posta sozinho mesmo com o computador DESLIGADO (roda no GitHub, de graça).
+Horários: almoço (~12h50) e noite (~19h50). 1 notícia por vez, como Reels com música + story.
+
+IMPORTANTE: NÃO use o LIGAR-ROBO-AUTOMATICO.bat do computador junto com este robô,
+senão a mesma notícia pode sair duas vezes. Se já tiver ligado, rode o DESLIGAR-ROBO-AUTOMATICO.bat.
+
+Esta pasta NÃO tem o token do Instagram (ele fica só no cofre do GitHub, passo 4).
+
+------------------------------------------------------------
+PASSO 1 — Criar o repositório (1 min)
+  github.com → botão "+" (canto de cima) → New repository
+  Nome: robo-diretonaquestao   •   marque PUBLIC   •   Create repository
+
+PASSO 2 — Subir os arquivos (2 min)
+  Na página do repositório, clique em "uploading an existing file".
+  Abra esta pasta (perfildark\12-robo-nuvem) no Windows, selecione TUDO (Ctrl+A)
+  e arraste para a página do GitHub → "Commit changes".
+  Confira se a pasta ".github" subiu. Se não aparecer, veja a DICA no final.
+
+PASSO 3 — Ligar o site das imagens/vídeos (1 min)
+  No repositório: Settings → Pages → Branch: main  /(root) → Save.
+
+PASSO 4 — Guardar o token no cofre (1 min)  ← só você faz este passo
+  Settings → Secrets and variables → Actions → New repository secret
+  Name: IG_TOKEN
+  Secret: o token do Instagram (o mesmo que está em
+          perfildark\08-robo-postagem\config-local.json, campo "igToken")
+  Add secret.  Nunca cole o token em chat nem em arquivo do repositório.
+
+PASSO 5 — Testar (1 min)
+  Aba Actions → se pedir, "I understand... enable" →
+  "Postar notícia no Instagram (almoço e noite)" → Run workflow → modo "testar".
+  Verde = tudo certo (nada é publicado no teste). Vermelho = mande print no chat.
+
+Pronto. A partir daí ele publica sozinho nos horários.
+
+------------------------------------------------------------
+DICA — se a pasta .github não subir no arraste
+  Add file → Create new file → nome: .github/workflows/postar.yml
+  Abra o arquivo .github\workflows\postar.yml desta pasta no Bloco de Notas,
+  copie tudo, cole no GitHub → Commit changes. Repita com renovar-token.yml.
+
+Trilha dos Reels: "Notícia Boa" — música original criada para o canal
+(sem direitos autorais de terceiros), em 08-robo-postagem\assets\trilha-noticia-boa.mp3.
