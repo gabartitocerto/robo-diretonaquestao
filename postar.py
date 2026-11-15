@@ -22,7 +22,11 @@ import urllib.parse
 import urllib.request
 from zoneinfo import ZoneInfo
 
-API = "https://graph.instagram.com/v23.0"
+# Token de Login Unificado/Facebook (começa com "EAA") usa graph.facebook.com;
+# token de "Login do Instagram" (começa com "IG") usa graph.instagram.com.
+_TK = os.environ.get("IG_TOKEN", "").strip()
+API = "https://graph.facebook.com/v23.0" if _TK.startswith("EAA") else "https://graph.instagram.com/v23.0"
+IG_USER_ID = os.environ.get("IG_USER_ID", "17841458824570192").strip()  # id público da conta @diretonaquestao
 FILA = "fila.json"
 FUSO = ZoneInfo("America/Sao_Paulo")
 
@@ -122,7 +126,18 @@ def publicar(ig_id, post, base):
             params_reel["cover_url"] = resolver_url_midia(post["cover_url"], base)
         cid = chamar("POST", f"{ig_id}/media", **params_reel)["id"]
         esperar_container(cid, tentativas=60)
-        return chamar("POST", f"{ig_id}/media_publish", creation_id=cid)["id"]
+        pub = chamar("POST", f"{ig_id}/media_publish", creation_id=cid)["id"]
+        # Também manda a arte para o Story (mantém o anel de stories e alimenta os destaques)
+        imgs = [s for s in post.get("slides", []) if s.lower().endswith((".jpg", ".jpeg"))]
+        if imgs:
+            try:
+                story_cid = chamar("POST", f"{ig_id}/media", media_type="STORIES", image_url=resolver_url_midia(imgs[0], base))["id"]
+                esperar_container(story_cid, tentativas=25)
+                chamar("POST", f"{ig_id}/media_publish", creation_id=story_cid)
+                print("Story publicado junto com o Reels.")
+            except SystemExit as e:
+                print(f"Aviso: story não enviado ({e})")
+        return pub
 
     # Publicação de Imagem Única ou Carrossel
     urls = [resolver_url_midia(s, base) for s in post["slides"]]
@@ -171,8 +186,12 @@ def main():
     if not TOKEN:
         sys.exit("ERRO: o segredo IG_TOKEN não foi configurado.")
 
-    eu = chamar("GET", "me", fields="user_id,username")
-    ig_id = eu.get("user_id") or eu.get("id")
+    if API.startswith("https://graph.facebook.com"):
+        eu = chamar("GET", IG_USER_ID, fields="id,username")
+        ig_id = eu.get("id") or IG_USER_ID
+    else:
+        eu = chamar("GET", "me", fields="user_id,username")
+        ig_id = eu.get("user_id") or eu.get("id")
     print(f"Conectado como @{eu.get('username')} (id {ig_id})")
 
     with open(FILA, encoding="utf-8") as f:
