@@ -1,0 +1,32 @@
+name: Renovar token do Instagram
+
+on:
+  schedule:
+    - cron: "0 12 * * 0"   # todo domingo às 9h (Brasília)
+  workflow_dispatch:
+
+jobs:
+  renovar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Renovar token
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+        run: python renovar_token.py
+
+      - name: Salvar token novo no cofre (Secrets)
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::warning::Segredo GH_PAT não configurado: o token foi renovado, mas não foi salvo. Configure o GH_PAT (veja o LEIA-ME)."
+            exit 0
+          fi
+          gh secret set IG_TOKEN --repo "$GITHUB_REPOSITORY" < "$RUNNER_TEMP/novo_token"
+          echo "Segredo IG_TOKEN atualizado."
