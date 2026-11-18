@@ -104,6 +104,35 @@ def obter_legenda(post):
     return ""
 
 
+def url_existe_jpeg(url):
+    try:
+        req = urllib.request.Request(url, method="HEAD")
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return "image/jp" in r.headers.get("Content-Type", "").lower()
+    except Exception:
+        return False
+
+
+def publicar_story(ig_id, post, base):
+    """Publica o story com a arte no formato 9:16 (posts/<ID>/story.jpg).
+    A arte do feed (4:5) NÃO serve para story: o Instagram dá zoom e corta as laterais.
+    Se o story.jpg não existir, o story é pulado (melhor sem story do que com a arte cortada)."""
+    rel = (post.get("story") or "").strip()
+    if not rel and post.get("slides"):
+        rel = post["slides"][0].rsplit("/", 1)[0] + "/story.jpg"
+    url = resolver_url_midia(rel, base) if rel else ""
+    if not url or not url_existe_jpeg(url):
+        print(f"Aviso: story pulado, não achei a arte 9:16 em {rel or '(sem caminho)'}. Rode gerar_story.py.")
+        return
+    try:
+        story_cid = chamar("POST", f"{ig_id}/media", media_type="STORIES", image_url=url)["id"]
+        esperar_container(story_cid, tentativas=25)
+        chamar("POST", f"{ig_id}/media_publish", creation_id=story_cid)
+        print("Story publicado no formato 9:16 (sem corte).")
+    except SystemExit as e:  # o story nunca pode derrubar a publicação principal
+        print(f"Aviso: story não enviado ({e})")
+
+
 def publicar(ig_id, post, base):
     legenda = obter_legenda(post)
 
@@ -127,16 +156,7 @@ def publicar(ig_id, post, base):
         cid = chamar("POST", f"{ig_id}/media", **params_reel)["id"]
         esperar_container(cid, tentativas=60)
         pub = chamar("POST", f"{ig_id}/media_publish", creation_id=cid)["id"]
-        # Também manda a arte para o Story (mantém o anel de stories e alimenta os destaques)
-        imgs = [s for s in post.get("slides", []) if s.lower().endswith((".jpg", ".jpeg"))]
-        if imgs:
-            try:
-                story_cid = chamar("POST", f"{ig_id}/media", media_type="STORIES", image_url=resolver_url_midia(imgs[0], base))["id"]
-                esperar_container(story_cid, tentativas=25)
-                chamar("POST", f"{ig_id}/media_publish", creation_id=story_cid)
-                print("Story publicado junto com o Reels.")
-            except SystemExit as e:
-                print(f"Aviso: story não enviado ({e})")
+        publicar_story(ig_id, post, base)
         return pub
 
     # Publicação de Imagem Única ou Carrossel
@@ -163,14 +183,7 @@ def publicar(ig_id, post, base):
     esperar_container(cid)
     pub_id = chamar("POST", f"{ig_id}/media_publish", creation_id=cid)["id"]
 
-    # Também publica automaticamente no Story (media_type=STORIES) para manter o anel de Stories e Destaques ativos
-    try:
-        story_cid = chamar("POST", f"{ig_id}/media", media_type="STORIES", image_url=urls[0])["id"]
-        esperar_container(story_cid, tentativas=25)
-        chamar("POST", f"{ig_id}/media_publish", creation_id=story_cid)
-        print("✨ Story automático publicado com sucesso junto com o post!")
-    except Exception as e:
-        print(f"Aviso: Story complementar não pôde ser enviado ({e})")
+    publicar_story(ig_id, post, base)
 
     return pub_id
 
