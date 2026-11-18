@@ -1,9 +1,12 @@
-name: Postar notícia no Instagram (almoço e noite)
+name: Postar no Instagram (confere a fila a cada 15 minutos)
 
 on:
   schedule:
-    # 12:50 e 19:50 no horário de Brasília (UTC-3) = 15:50 e 22:50 UTC
-    - cron: "50 15,22 * * *"
+    # Confere a fila a cada 15 minutos, das 06:07 às 23:52 de Brasília (UTC-3).
+    # O robô só publica quando chega a data/hora marcada no post (fila.json),
+    # então o horário de cada post é quem manda, não este relógio.
+    - cron: "7,22,37,52 9-23 * * *"
+    - cron: "7,22,37,52 0-2 * * *"
   workflow_dispatch:
     inputs:
       modo:
@@ -45,4 +48,4 @@ jobs:
           git config user.name "robo-diretonaquestao"
           git config user.email "robo-diretonaquestao@users.noreply.github.com"
           git add fila.json
-          git diff --cached --quiet || (git commit -m "Robô: notícia publicada" && git push)
+          git diff --cached --quiet || (git commit -m "Robô: fila atualizada" && git push)

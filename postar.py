@@ -7,6 +7,12 @@ Modos (variável MODO):
   forcar  -> publica o próximo post APROVADO (ou o POST_ID informado pelo Admin), ignorando a data/hora
   testar  -> só confere o token e se as mídias estão acessíveis (não publica nada)
 
+Regras extras da fila (todas opcionais):
+  "expira_em": "AAAA-MM-DD HH:MM" no post -> depois desse momento a notícia NÃO é mais publicada
+                (ex.: fim das inscrições). O post fica com status "vencido".
+  "intervalo_minimo_min" na fila -> minutos mínimos entre duas publicações (padrão 120),
+                para o robô nunca soltar vários posts em sequência.
+
 Variáveis de ambiente:
   IG_TOKEN  (obrigatória) token de acesso do Instagram — fica no GitHub Secrets
   BASE_URL  (opcional) endereço público das imagens/vídeos; padrão = GitHub Pages do repositório
@@ -195,6 +201,30 @@ def chave_agendamento(post, horario_padrao="19:00"):
     return f"{post['data']} {hora}"
 
 
+def venceu(post, agora_str):
+    """True quando a notícia tem validade (expira_em) e ela já passou."""
+    exp = (post.get("expira_em") or "").strip()
+    return bool(exp) and exp <= agora_str
+
+
+def minutos_desde_ultima_publicacao(fila, agora_dt):
+    ultimas = []
+    for p in fila["posts"]:
+        try:
+            ultimas.append(datetime.datetime.fromisoformat(p.get("publicado_em") or ""))
+        except ValueError:
+            pass
+    if not ultimas:
+        return None
+    return (agora_dt - max(ultimas)).total_seconds() / 60
+
+
+def salvar_fila(fila):
+    with open(FILA, "w", encoding="utf-8") as f:
+        json.dump(fila, f, ensure_ascii=False, indent=2)
+        f.write("\n")
+
+
 def main():
     if not TOKEN:
         sys.exit("ERRO: o segredo IG_TOKEN não foi configurado.")
@@ -216,9 +246,20 @@ def main():
     horario_padrao = fila.get("horario_padrao", "19:00")
     exigir_admin = fila.get("exigir_aprovacao_admin", True)
 
+    # Notícia com prazo vencido nunca vai ao ar (ex.: "últimos dias" depois do fim das inscrições).
+    mudou = False
+    if MODO != "testar":
+        for p in fila["posts"]:
+            if not p.get("publicado_em") and p.get("status") not in ("pausado", "vencido") and venceu(p, agora_str):
+                print(f"⌛ VENCIDO: {p['id']} ({p['titulo']}) expirou em {p['expira_em']} e não será publicado.")
+                p["status"] = "vencido"
+                mudou = True
+    if mudou:
+        salvar_fila(fila)
+
     nao_publicados = [
         p for p in fila["posts"]
-        if not p.get("publicado_em") and p.get("status") != "pausado"
+        if not p.get("publicado_em") and p.get("status") not in ("pausado", "vencido")
     ]
     aprovados = [p for p in nao_publicados if p.get("aprovado") is True]
 
@@ -267,9 +308,22 @@ def main():
             if chave_agendamento(p, horario_padrao) <= agora_str
         ]
 
+    if len(aprovados) <= 2:
+        print(f"⚠️ FILA BAIXA: só {len(aprovados)} post(s) aprovado(s) esperando. Hora de preparar novas notícias.")
+
     if not candidatos:
         print("Nenhum post aprovado com horário atingido agora. Até a próxima verificação!")
         return
+
+    if MODO == "postar" and not POST_ID:
+        intervalo = int(fila.get("intervalo_minimo_min", 120))
+        desde = minutos_desde_ultima_publicacao(fila, agora_dt)
+        if desde is not None and 0 <= desde < intervalo:
+            print(
+                f"⏱️ Última publicação há {int(desde)} min. O intervalo mínimo é de {intervalo} min; "
+                "o próximo post sai em uma das próximas verificações."
+            )
+            return
 
     post = sorted(candidatos, key=lambda p: chave_agendamento(p, horario_padrao))[0]
     print(f"🚀 Publicando {post['id']} — {post['titulo']} (Aprovado por {post.get('aprovado_por') or 'Admin'}) ...")
@@ -278,9 +332,7 @@ def main():
     post["status"] = "publicado"
     post["publicado_em"] = agora_dt.isoformat(timespec="seconds")
     post["media_id"] = media_id
-    with open(FILA, "w", encoding="utf-8") as f:
-        json.dump(fila, f, ensure_ascii=False, indent=2)
-        f.write("\n")
+    salvar_fila(fila)
     print(f"✅ PUBLICADO COM SUCESSO! {post['id']} (media_id {media_id})")
 
 
