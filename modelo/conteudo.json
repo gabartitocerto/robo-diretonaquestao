@@ -450,5 +450,754 @@
   "fonte": "Edital nº 01/2026 (concursos.objetivas.com.br)",
   "legenda": "INSCRIÇÕES ABERTAS: a Câmara Municipal de Soledade/RS tem concurso com 5 vagas imediatas e cadastro reserva.\n\n🎓 Nível médio (taxa de R$ 100):\n• Agente Administrativo Auxiliar\n• Auxiliar Legislativo\n• Motorista\n\n🎓 Nível técnico ou superior em Contabilidade ou Administração (taxa de R$ 120):\n• Oficial de Apoio Administrativo\n\n🎓 Nível superior (taxa de R$ 150):\n• Contador\n\n💰 Salários de R$ 2.144,89 a R$ 4.381,00\n⏱️ Jornada de 35 horas semanais (30 horas para Contador)\n🗓️ Inscrições: até 09/12/2026, às 13h, no site da Objetiva Concursos\n📝 Prova objetiva: 24/01/2027, em Soledade\n\n📰 Fonte: Edital nº 01/2026 da Câmara Municipal de Soledade, organizado pela Objetiva Concursos (concursos.objetivas.com.br). Leia o edital antes de se inscrever.\n\n📌 Câmara costuma ter menos concorrência que prefeitura grande. Mande para quem é da região.\n📲 Questões comentadas e grátis no app: link na bio.\n\n#soledade #concursosrs #camaramunicipal #objetivaconcursos #concursopublico #inscricoesabertas",
   "semana": "4"
+ },
+ {
+  "id": "N28",
+  "modelo": "noticia",
+  "data": "2026-11-27",
+  "hora": "12:15",
+  "expira_em": "2026-11-29 12:00",
+  "titulo": "Caxias do Sul: inscrições terminam no domingo (29/11)",
+  "materia": "Notícia • RS",
+  "tipo": "Últimos dias",
+  "fonte_fila": "Editais nº 02 e 03/2026 da Prefeitura de Caxias do Sul • Fundatec",
+  "fonte_conferida_em": "2026-11-20",
+  "selo": "ultimos",
+  "regiao": "RS",
+  "orgao": "PREFEITURA DE CAXIAS DO SUL",
+  "local": "Serra Gaúcha • RS",
+  "cargo": "Médicos, Agrimensura e Procurador",
+  "tam_cargo": 64,
+  "rotulo_salario": "Salários",
+  "salario": "R$ 5.722,43 a R$ 19.787,77",
+  "tam_salario": 50,
+  "faixa": "24 VAGAS + CADASTRO RESERVA",
+  "linhas": [
+   [
+    "cal",
+    "Inscrições",
+    "até domingo, 29/11/2026"
+   ],
+   [
+    "taxa",
+    "Taxa de inscrição",
+    "R$ 120 • R$ 180 • R$ 230"
+   ],
+   [
+    "prova",
+    "Prova objetiva (prevista)",
+    "24/01/2027"
+   ]
+  ],
+  "banca": "Fundatec",
+  "fonte": "Editais nº 02 e 03/2026 (fundatec.org.br)",
+  "legenda": "ÚLTIMOS DIAS: as inscrições dos dois concursos da Prefeitura de Caxias do Sul/RS terminam neste domingo, 29/11.\n\n🩺 Edital 03/2026: 23 vagas para médicos e Técnico em Agrimensura, mais cadastro reserva\n⚖️ Edital 02/2026: 1 vaga de Procurador do Município\n💰 Salários de R$ 5.722,43 a R$ 19.787,77, mais auxílio-alimentação de R$ 1.020,36\n💳 Taxas: R$ 120 (médio/técnico), R$ 180 (superior) e R$ 230 (Procurador)\n📝 Prova objetiva: prevista para 24/01/2027\n\nInscrição pelo site da Fundatec (fundatec.org.br).\n\n📰 Fonte: Editais nº 02 e 03/2026 da Prefeitura de Caxias do Sul, organizados pela Fundatec. Leia o edital antes de se inscrever.\n\n📌 Mande para quem é da área da saúde na Serra e ainda não se inscreveu.\n📲 Quer treinar no estilo Fundatec? Questões comentadas e grátis no app: link na bio.\n\n#caxiasdosul #concursosrs #fundatec #serragaucha #concursopublico #ultimosdias",
+  "semana": "5"
+ },
+ {
+  "id": "Q04",
+  "modelo": "questao",
+  "data": "2026-11-27",
+  "hora": "19:00",
+  "titulo": "Questão do dia: atalho do Gerenciador de Tarefas",
+  "materia": "Questão • Informática",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo Fundatec) • atalhos do Windows",
+  "fonte_conferida_em": "2026-11-20",
+  "selo": "questao",
+  "regiao": "INFORMÁTICA",
+  "questao": {
+   "chip": "Informática • estilo Fundatec • nível médio",
+   "enunciado": "No Windows 10 e no Windows 11, qual atalho de teclado abre diretamente o Gerenciador de Tarefas?",
+   "alternativas": [
+    "Ctrl + Alt + Tab",
+    "Ctrl + Shift + Esc",
+    "Alt + F4",
+    "Windows + L",
+    "Ctrl + Esc"
+   ],
+   "correta": 1,
+   "tam_explicacao": 34,
+   "explicacao": "<b>Ctrl + Shift + Esc</b> abre o Gerenciador de Tarefas direto, sem passar por outra tela.<br><br>As outras: <b>Alt + F4</b> fecha a janela, <b>Windows + L</b> bloqueia o computador e <b>Ctrl + Esc</b> abre o menu Iniciar.<br><br>Pegadinha comum: <b>Ctrl + Alt + Del</b> também chega lá, mas abre antes uma tela de opções.",
+   "fundamento": "atalhos de teclado do Windows 10 e 11 (Microsoft)."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 Informática cai em quase toda prova de prefeitura, e atalho de teclado é ponto fácil para quem treina.\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca Fundatec (não é de prova oficial).\n\n📲 Quer treinar mais? Tem milhares de questões comentadas, de graça, no nosso app: link na bio.\n📌 Salve para revisar antes da prova.\n\n#questaodeconcurso #informaticaparaconcursos #windows #fundatec #concursosrs #concursopublico",
+  "semana": "5"
+ },
+ {
+  "id": "N29",
+  "modelo": "agenda",
+  "data": "2026-11-28",
+  "hora": "11:00",
+  "expira_em": "2026-11-29 11:00",
+  "titulo": "Agenda RS: 7 prazos de inscrição para anotar",
+  "materia": "Agenda • RS",
+  "tipo": "Agenda da semana",
+  "fonte_fila": "Editais dos concursos (Fundatec, Legalle e Objetiva)",
+  "fonte_conferida_em": "2026-11-20",
+  "selo": "agenda",
+  "regiao": "RS",
+  "titulo_arte": "Prazos de inscrição no RS",
+  "subtitulo": "7 concursos com inscrições abertas hoje",
+  "itens": [
+   [
+    "29/11",
+    "domingo",
+    "Prefeitura de Caxias do Sul",
+    "Médicos, Agrimensura e Procurador • Fundatec"
+   ],
+   [
+    "04/12",
+    "sexta",
+    "GHC (Porto Alegre)",
+    "Cadastro reserva • fundamental ao superior • Fundatec"
+   ],
+   [
+    "08/12",
+    "terça, 18h",
+    "Fundação Liberato",
+    "34 vagas • médio e superior • Legalle"
+   ],
+   [
+    "09/12",
+    "quarta, 13h",
+    "Câmara de Soledade",
+    "5 vagas • médio ao superior • Objetiva"
+   ],
+   [
+    "09/12",
+    "quarta, 18h",
+    "Prefeitura de Antônio Prado",
+    "21 vagas • fundamental ao superior • Legalle"
+   ],
+   [
+    "18/12",
+    "sexta, 17h",
+    "Prefeitura de Sede Nova",
+    "43 vagas • fundamental ao superior • Fundatec"
+   ],
+   [
+    "21/12",
+    "segunda",
+    "Instituto Federal Farroupilha",
+    "30 vagas • médio ao superior • Fundatec"
+   ]
+  ],
+  "fonte": "editais de cada concurso (sites das bancas)",
+  "legenda": "AGENDA DA SEMANA 🗓️ Sete concursos no Rio Grande do Sul com inscrições abertas e o último dia de cada um:\n\n• 29/11 (domingo): Prefeitura de Caxias do Sul, médicos, Técnico em Agrimensura e Procurador, banca Fundatec\n• 04/12 (sexta): GHC, em Porto Alegre, cadastro reserva, do fundamental ao superior, banca Fundatec\n• 08/12 (terça, até 18h): Fundação Liberato, em Novo Hamburgo, 34 vagas, médio e superior, banca Legalle\n• 09/12 (quarta, até 13h): Câmara de Soledade, 5 vagas, do médio ao superior, banca Objetiva\n• 09/12 (quarta, até 18h): Prefeitura de Antônio Prado, 21 vagas, do fundamental ao superior, banca Legalle\n• 18/12 (sexta, até 17h): Prefeitura de Sede Nova, 43 vagas, do fundamental ao superior, banca Fundatec\n• 21/12 (segunda): Instituto Federal Farroupilha, 30 vagas, do médio ao superior, banca Fundatec\n\nNão deixe para a última hora: o boleto costuma vencer logo depois do fim das inscrições.\n\n📰 Fonte: editais de abertura de cada concurso, publicados nos sites das bancas (Fundatec, Legalle e Objetiva). Prazos podem mudar por retificação: confira sempre no site da banca.\n\n📌 Salve este post e mande para o seu grupo de estudos.\n💬 Qual desses é o seu? Comente a cidade.\n📲 Questões comentadas e grátis no app: link na bio.\n\n#concursosrs #concursosabertos #concursopublico #riograndedosul #concursoprefeitura #inscricoesabertas",
+  "semana": "5"
+ },
+ {
+  "id": "N30",
+  "modelo": "noticia",
+  "data": "2026-11-29",
+  "hora": "19:00",
+  "expira_em": "2026-12-18 12:00",
+  "titulo": "Sede Nova: 43 vagas, do fundamental incompleto ao superior",
+  "materia": "Notícia • RS",
+  "tipo": "Inscrições abertas",
+  "fonte_fila": "Edital do Concurso Público nº 01/2026 da Prefeitura de Sede Nova • Fundatec",
+  "fonte_conferida_em": "2026-11-20",
+  "selo": "abertas",
+  "regiao": "RS",
+  "orgao": "PREFEITURA DE SEDE NOVA",
+  "local": "Sede Nova • RS",
+  "cargo": "Motorista e Operador de Máquinas",
+  "tam_cargo": 66,
+  "rotulo_salario": "Vencimento<br>básico",
+  "salario": "R$ 4.090,20",
+  "faixa": "FUNDAMENTAL INCOMPLETO • 12 VAGAS (43 NO TOTAL)",
+  "tam_faixa": 30,
+  "linhas": [
+   [
+    "cal",
+    "Inscrições",
+    "até 18/12/2026, às 17h"
+   ],
+   [
+    "taxa",
+    "Taxa de inscrição",
+    "R$ 70 • R$ 100 • R$ 140"
+   ],
+   [
+    "prova",
+    "Prova objetiva (data provável)",
+    "24/01/2027"
+   ]
+  ],
+  "banca": "Fundatec",
+  "fonte": "Edital do Concurso Público nº 01/2026 (fundatec.org.br)",
+  "legenda": "INSCRIÇÕES ABERTAS: a Prefeitura de Sede Nova/RS abriu concurso com 43 vagas e cadastro reserva em 34 cargos.\n\nOnde estão as vagas:\n🚛 Motorista: 6 (fundamental incompleto + CNH D) • R$ 4.090,20\n🚜 Operador de Máquinas: 6 (fundamental incompleto + CNH C) • R$ 4.090,20\n🏫 Professor de Educação Infantil e Séries Iniciais: 9 (22h) • R$ 2.853,39\n🧒 Atendente Educacional: 8 (médio) • R$ 2.385,95\n📚 Monitor Auxiliar: 5 (médio) • R$ 2.726,80\n🎓 Mais 9 vagas de nível técnico e superior, como Contador (R$ 9.339,29), Dentista e Farmacêutico\n\n💰 Vencimentos de R$ 2.045,10 a R$ 9.339,29\n🗓️ Inscrições: de 19/11 a 18/12/2026, às 17h, no site da Fundatec\n💳 Taxas: R$ 70 (fundamental), R$ 100 (médio/técnico) e R$ 140 (superior)\n📝 Prova objetiva: data provável em 24/01/2027\n\n📰 Fonte: Edital de Abertura do Concurso Público nº 01/2026 da Prefeitura de Sede Nova, organizado pela Fundatec (fundatec.org.br). Leia o edital antes de se inscrever.\n\n📌 Mande para quem tem CNH e procura concurso de nível fundamental.\n📲 Quer treinar no estilo Fundatec? Questões comentadas e grátis no app: link na bio.\n\n#sedenova #concursosrs #fundatec #concursoprefeitura #concursopublico #inscricoesabertas",
+  "semana": "5"
+ },
+ {
+  "id": "N31",
+  "modelo": "noticia",
+  "data": "2026-11-30",
+  "hora": "12:15",
+  "expira_em": "2026-12-14 12:00",
+  "titulo": "Porto Alegre: 37 vagas de residência para recém-formados",
+  "materia": "Notícia • RS",
+  "tipo": "Inscrições abertas",
+  "fonte_fila": "Edital de Abertura nº 129/2026 da Prefeitura de Porto Alegre • Fundatec",
+  "fonte_conferida_em": "2026-11-20",
+  "selo": "abertas",
+  "regiao": "RS",
+  "orgao": "PREFEITURA DE PORTO ALEGRE",
+  "local": "Processo seletivo • residência",
+  "cargo": "Residência Técnico-Superior",
+  "tam_cargo": 70,
+  "rotulo_salario": "Bolsa-<br>auxílio",
+  "salario": "R$ 2.500,00",
+  "faixa": "SUPERIOR COMPLETO • 37 VAGAS + CADASTRO RESERVA",
+  "tam_faixa": 30,
+  "linhas": [
+   [
+    "cal",
+    "Inscrições",
+    "até 14/12/2026, às 17h"
+   ],
+   [
+    "taxa",
+    "Taxa de inscrição",
+    "R$ 102,68"
+   ],
+   [
+    "prova",
+    "Prova objetiva (data provável)",
+    "24/01/2027"
+   ]
+  ],
+  "banca": "Fundatec",
+  "fonte": "Edital de Abertura nº 129/2026 (fundatec.org.br)",
+  "legenda": "INSCRIÇÕES ABERTAS: a Prefeitura de Porto Alegre abriu processo seletivo para o Programa de Residência Técnico-Superior, com 37 vagas e cadastro reserva.\n\nVagas por área:\n📊 Administração: 10\n🏛️ Arquitetura: 10\n🏗️ Engenharia Civil: 10\n🧾 Contabilidade: 5\n⚡ Engenharia Elétrica: 2\n\n🎓 Para quem tem curso superior completo na área, concluído há no máximo 5 anos\n💰 Bolsa-auxílio de R$ 2.500,00 por mês, mais auxílio-transporte\n⏱️ 30 horas por semana, por até 12 meses (pode ser prorrogado por mais 12)\n🗓️ Inscrições: de 16/11 a 14/12/2026, às 17h, no site da Fundatec\n💳 Taxa: R$ 102,68\n📝 Prova objetiva: data provável em 24/01/2027\n\nAtenção: é residência com bolsa, não é cargo efetivo. Serve para ganhar experiência no serviço público.\n\n📰 Fonte: Edital de Abertura nº 129/2026 (Processos Seletivos Simplificados nº 07 a 11/2026) da Prefeitura de Porto Alegre, organizado pela Fundatec (fundatec.org.br). Leia o edital antes de se inscrever.\n\n📌 Mande para quem se formou há pouco em uma dessas áreas.\n📲 Questões comentadas e grátis no app: link na bio.\n\n#portoalegre #concursosrs #fundatec #processoseletivo #residencia #inscricoesabertas",
+  "semana": "6"
+ },
+ {
+  "id": "Q05",
+  "modelo": "questao",
+  "data": "2026-12-01",
+  "hora": "19:00",
+  "titulo": "Questão do dia: negação do \"todos\"",
+  "materia": "Questão • Raciocínio Lógico",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo Fundatec) • lógica proposicional",
+  "fonte_conferida_em": "2026-11-20",
+  "selo": "questao",
+  "regiao": "RACIOCÍNIO",
+  "questao": {
+   "chip": "Raciocínio Lógico • estilo Fundatec • nível médio",
+   "enunciado": "A negação lógica da frase “Todos os servidores chegaram cedo” é:",
+   "alternativas": [
+    "Nenhum servidor chegou cedo.",
+    "Todos os servidores chegaram tarde.",
+    "Algum servidor não chegou cedo.",
+    "Algum servidor chegou cedo.",
+    "Nenhum servidor chegou tarde."
+   ],
+   "correta": 2,
+   "tam_explicacao": 34,
+   "explicacao": "Para desmentir “<b>todos</b> chegaram cedo”, basta <b>um</b> que não tenha chegado cedo.<br><br>Regra: a negação de “<b>todo A é B</b>” é “<b>algum A não é B</b>”.<br><br>“Nenhum chegou cedo” é a pegadinha: diz muito mais do que o necessário.",
+   "fundamento": "lógica proposicional, negação de proposições com quantificador universal."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 Negação do “todos” é uma das pegadinhas mais cobradas em Raciocínio Lógico.\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nMacete: para negar “todos”, use “algum... não”.\n\nQuestão inédita, feita no estilo da banca Fundatec (não é de prova oficial).\n\n📲 Quer treinar mais? Tem milhares de questões comentadas, de graça, no nosso app: link na bio.\n📌 Salve e marque quem sempre cai nessa.\n\n#questaodeconcurso #raciociniologico #logica #fundatec #concursosrs #concursopublico",
+  "semana": "6"
+ },
+ {
+  "id": "N32",
+  "modelo": "noticia",
+  "data": "2026-12-02",
+  "hora": "12:15",
+  "expira_em": "2026-12-04 12:00",
+  "titulo": "GHC: inscrições terminam na sexta (04/12)",
+  "materia": "Notícia • RS",
+  "tipo": "Últimos dias",
+  "fonte_fila": "Edital nº 03/2026 do GHC • Fundatec",
+  "fonte_conferida_em": "2026-11-20",
+  "selo": "ultimos",
+  "regiao": "RS",
+  "orgao": "GRUPO HOSPITALAR CONCEIÇÃO",
+  "local": "GHC • Porto Alegre • RS",
+  "cargo": "Cadastro reserva na saúde",
+  "tam_cargo": 74,
+  "rotulo_salario": "Salários",
+  "salario": "R$ 2.010,60 a R$ 12.974,40",
+  "tam_salario": 50,
+  "faixa": "FUNDAMENTAL, TÉCNICO E SUPERIOR",
+  "linhas": [
+   [
+    "cal",
+    "Inscrições",
+    "até sexta, 04/12/2026"
+   ],
+   [
+    "taxa",
+    "Taxa de inscrição",
+    "R$ 19,90 a R$ 146,46"
+   ],
+   [
+    "prova",
+    "Prova objetiva (data provável)",
+    "10/01/2027"
+   ]
+  ],
+  "banca": "Fundatec",
+  "fonte": "Edital nº 03/2026 do GHC (fundatec.org.br)",
+  "legenda": "ÚLTIMOS DIAS: as inscrições do concurso do Grupo Hospitalar Conceição (GHC), de Porto Alegre, terminam nesta sexta-feira, 04/12.\n\n🏥 Nível fundamental: Auxiliar de Higienização e Vigia\n🏥 Nível técnico: Técnico de Enfermagem, Técnico em Saúde Bucal e Técnico em Prótese Dentária\n🏥 Nível superior: Enfermeiro, Administrador, Analista de Gestão Hospitalar, médicos e outros\n\n💰 Salários de R$ 2.010,60 a R$ 12.974,40, conforme o cargo e a jornada\n💳 Taxas: R$ 19,90 (fundamental), R$ 109,09 (técnico) e R$ 146,46 (superior)\n📝 Prova objetiva: data provável em 10/01/2027, em Porto Alegre\n\nÉ cadastro reserva: as chamadas acontecem conforme surgirem vagas durante a validade do concurso.\n\n📰 Fonte: Edital nº 03/2026 do GHC, organizado pela Fundatec (fundatec.org.br). Leia o edital antes de se inscrever.\n\n📌 Mande para quem é da saúde e ainda não se inscreveu.\n📲 Quer treinar no estilo Fundatec? Questões comentadas e grátis no app: link na bio.\n\n#ghc #concursosrs #portoalegre #fundatec #concursosaude #ultimosdias",
+  "semana": "6"
+ },
+ {
+  "id": "N33",
+  "modelo": "noticia",
+  "data": "2026-12-03",
+  "hora": "19:00",
+  "expira_em": "2026-12-08 12:00",
+  "titulo": "Câmara de Boa Vista do Incra: concurso com inscrições até 08/12",
+  "materia": "Notícia • RS",
+  "tipo": "Inscrições abertas",
+  "fonte_fila": "Edital do Concurso Público nº 01/2026 da Câmara de Boa Vista do Incra • Fundatec",
+  "fonte_conferida_em": "2026-11-20",
+  "selo": "abertas",
+  "regiao": "RS",
+  "orgao": "CÂMARA DE BOA VISTA DO INCRA",
+  "local": "Boa Vista do Incra • RS",
+  "cargo": "Agente de Apoio",
+  "tam_cargo": 88,
+  "rotulo_salario": "Vencimento<br>básico",
+  "salario": "R$ 1.506,58",
+  "faixa": "ENSINO MÉDIO • 24 HORAS SEMANAIS",
+  "tam_faixa": 32,
+  "linhas": [
+   [
+    "cal",
+    "Inscrições",
+    "até 08/12/2026, às 17h"
+   ],
+   [
+    "taxa",
+    "Taxa de inscrição",
+    "R$ 80 (médio) • R$ 150 (superior)"
+   ],
+   [
+    "prova",
+    "Prova objetiva (data provável)",
+    "17/01/2027"
+   ]
+  ],
+  "banca": "Fundatec",
+  "fonte": "Edital do Concurso Público nº 01/2026 (fundatec.org.br)",
+  "legenda": "INSCRIÇÕES ABERTAS: a Câmara Municipal de Boa Vista do Incra/RS tem concurso com 2 vagas e cadastro reserva.\n\n🎓 Nível médio: Agente de Apoio\n• 1 vaga + cadastro reserva\n• 24 horas semanais\n• Vencimento básico de R$ 1.506,58\n• Taxa: R$ 80\n\n🎓 Nível superior (Contabilidade ou Administração): Agente Administrativo\n• 1 vaga + cadastro reserva\n• 20 horas semanais\n• Vencimento básico de R$ 2.072,69\n• Taxa: R$ 150\n\n🗓️ Inscrições: até 08/12/2026, às 17h, no site da Fundatec\n📝 Prova objetiva: data provável em 17/01/2027\n\nJornada curta e concurso de Câmara, que costuma ter menos concorrência.\n\n📰 Fonte: Edital de Abertura do Concurso Público nº 01/2026 da Câmara Municipal de Boa Vista do Incra, organizado pela Fundatec (fundatec.org.br). Leia o edital antes de se inscrever.\n\n📌 Mande para quem é da região.\n📲 Questões comentadas e grátis no app: link na bio.\n\n#boavistadoincra #concursosrs #fundatec #camaramunicipal #concursopublico #inscricoesabertas",
+  "semana": "6"
+ },
+ {
+  "id": "Q06",
+  "modelo": "questao",
+  "data": "2026-12-04",
+  "hora": "19:00",
+  "titulo": "Questão do dia: onde vai a crase?",
+  "materia": "Questão • Português",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo Fundatec) • emprego do acento grave",
+  "fonte_conferida_em": "2026-11-20",
+  "selo": "questao",
+  "regiao": "PORTUGUÊS",
+  "questao": {
+   "chip": "Português • estilo Fundatec • nível médio",
+   "enunciado": "Assinale a alternativa em que o acento grave, indicador de crase, está empregado corretamente.",
+   "alternativas": [
+    "O candidato chegou à pé.",
+    "Entregou o requerimento à diretora.",
+    "Começou à estudar ontem.",
+    "Referiu-se à ele na reunião.",
+    "A prova será à partir das 14h."
+   ],
+   "correta": 1,
+   "tam_explicacao": 33,
+   "explicacao": "Quem entrega, entrega <b>a</b> alguém (preposição) + <b>a</b> diretora (artigo) = <b>à</b> diretora.<br><br>Não há crase antes de <b>palavra masculina</b> (a pé), de <b>verbo</b> (a estudar, a partir) nem de <b>pronome pessoal</b> (a ele).<br><br>Teste rápido: troque por masculino. “Ao diretor” confirma a crase.",
+   "fundamento": "gramática normativa, emprego do acento grave (crase)."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 Crase derruba muita gente em prova. Quatro destas frases têm erro: qual é a única certa?\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nMacete: troque a palavra por uma masculina. Se virar “ao”, tem crase.\n\nQuestão inédita, feita no estilo da banca Fundatec (não é de prova oficial).\n\n📲 Quer treinar mais? Tem milhares de questões comentadas, de graça, no nosso app: link na bio.\n📌 Salve para revisar antes da prova.\n\n#questaodeconcurso #portuguesparaconcursos #crase #fundatec #concursosrs #concursopublico",
+  "semana": "6"
+ },
+ {
+  "id": "N34",
+  "modelo": "agenda",
+  "data": "2026-12-05",
+  "hora": "11:00",
+  "expira_em": "2026-12-08 11:00",
+  "titulo": "Agenda RS: 7 prazos de inscrição para anotar",
+  "materia": "Agenda • RS",
+  "tipo": "Agenda da semana",
+  "fonte_fila": "Editais dos concursos (Fundatec, Legalle e Objetiva)",
+  "fonte_conferida_em": "2026-11-20",
+  "selo": "agenda",
+  "regiao": "RS",
+  "titulo_arte": "Prazos de inscrição no RS",
+  "subtitulo": "7 seleções com inscrições abertas hoje",
+  "itens": [
+   [
+    "08/12",
+    "terça, 17h",
+    "Câmara de Boa Vista do Incra",
+    "2 vagas • médio e superior • Fundatec"
+   ],
+   [
+    "08/12",
+    "terça, 18h",
+    "Fundação Liberato",
+    "34 vagas • médio e superior • Legalle"
+   ],
+   [
+    "09/12",
+    "quarta, 13h",
+    "Câmara de Soledade",
+    "5 vagas • médio ao superior • Objetiva"
+   ],
+   [
+    "09/12",
+    "quarta, 18h",
+    "Prefeitura de Antônio Prado",
+    "21 vagas • fundamental ao superior • Legalle"
+   ],
+   [
+    "14/12",
+    "segunda, 17h",
+    "Residência em Porto Alegre",
+    "37 vagas • superior completo • Fundatec"
+   ],
+   [
+    "18/12",
+    "sexta, 17h",
+    "Prefeitura de Sede Nova",
+    "43 vagas • fundamental ao superior • Fundatec"
+   ],
+   [
+    "21/12",
+    "segunda",
+    "Instituto Federal Farroupilha",
+    "30 vagas • médio ao superior • Fundatec"
+   ]
+  ],
+  "fonte": "editais de cada seleção (sites das bancas)",
+  "legenda": "AGENDA DA SEMANA 🗓️ Sete seleções no Rio Grande do Sul com inscrições abertas e o último dia de cada uma:\n\n• 08/12 (terça, até 17h): Câmara de Boa Vista do Incra, 2 vagas, médio e superior, banca Fundatec\n• 08/12 (terça, até 18h): Fundação Liberato, em Novo Hamburgo, 34 vagas, médio e superior, banca Legalle\n• 09/12 (quarta, até 13h): Câmara de Soledade, 5 vagas, do médio ao superior, banca Objetiva\n• 09/12 (quarta, até 18h): Prefeitura de Antônio Prado, 21 vagas, do fundamental ao superior, banca Legalle\n• 14/12 (segunda, até 17h): Residência Técnico-Superior da Prefeitura de Porto Alegre, 37 vagas com bolsa, superior completo, banca Fundatec\n• 18/12 (sexta, até 17h): Prefeitura de Sede Nova, 43 vagas, do fundamental ao superior, banca Fundatec\n• 21/12 (segunda): Instituto Federal Farroupilha, 30 vagas, do médio ao superior, banca Fundatec\n\nNão deixe para a última hora: o boleto costuma vencer logo depois do fim das inscrições.\n\n📰 Fonte: editais de abertura de cada seleção, publicados nos sites das bancas (Fundatec, Legalle e Objetiva). Prazos podem mudar por retificação: confira sempre no site da banca.\n\n📌 Salve este post e mande para o seu grupo de estudos.\n💬 Qual desses é o seu? Comente a cidade.\n📲 Questões comentadas e grátis no app: link na bio.\n\n#concursosrs #concursosabertos #concursopublico #riograndedosul #concursoprefeitura #inscricoesabertas",
+  "semana": "6"
+ },
+ {
+  "id": "N35",
+  "modelo": "noticia",
+  "data": "2026-12-06",
+  "hora": "19:00",
+  "expira_em": "2026-12-08 12:00",
+  "titulo": "Fundação Liberato: inscrições terminam na terça (08/12)",
+  "materia": "Notícia • RS",
+  "tipo": "Últimos dias",
+  "fonte_fila": "Edital de Abertura 001/2026 • Fundação Liberato / Legalle",
+  "fonte_conferida_em": "2026-11-20",
+  "selo": "ultimos",
+  "regiao": "RS",
+  "orgao": "FUNDAÇÃO LIBERATO",
+  "local": "Novo Hamburgo • RS",
+  "cargo": "Agente Administrativo",
+  "tam_cargo": 88,
+  "rotulo_salario": "Vencimento<br>básico",
+  "salario": "R$ 4.999,82",
+  "faixa": "ENSINO MÉDIO • 8 VAGAS (34 NO TOTAL)",
+  "tam_faixa": 32,
+  "linhas": [
+   [
+    "cal",
+    "Inscrições",
+    "até terça, 08/12, às 18h"
+   ],
+   [
+    "taxa",
+    "Taxa de inscrição",
+    "R$ 124,02 (médio) • R$ 282,79 (superior)"
+   ],
+   [
+    "prova",
+    "Prova objetiva (data provável)",
+    "07/03/2027"
+   ]
+  ],
+  "tam_linha": 34,
+  "banca": "Legalle",
+  "fonte": "Edital de Abertura 001/2026 (liberato.com.br)",
+  "legenda": "ÚLTIMOS DIAS: as inscrições do concurso da Fundação Liberato, de Novo Hamburgo/RS, terminam nesta terça-feira, 08/12, às 18h.\n\n🎓 Nível médio: Agente Administrativo\n• 8 vagas\n• Vencimento básico de R$ 4.999,82\n• Taxa: R$ 124,02\n\n🎓 Nível superior: Analista Educacional, professores de várias áreas e Psicólogo\n• 26 vagas\n• Vencimento básico de R$ 10.370,94\n• Taxa: R$ 282,79\n\n💳 Pagamento da taxa: até 09/12/2026\n📝 Prova objetiva: data provável em 07/03/2027, em Novo Hamburgo\n\nInscrição pelo site da Legalle Concursos.\n\n📰 Fonte: Edital de Abertura e Inscrições do Concurso Público 001/2026 da Fundação Liberato (liberato.com.br). Leia o edital antes de se inscrever.\n\n📌 Mande para quem é do Vale do Sinos e ainda não se inscreveu.\n📲 Quer treinar no estilo Legalle? Questões comentadas e grátis no app: link na bio.\n\n#fundacaoliberato #novohamburgo #concursosrs #legalle #concursopublico #ultimosdias",
+  "semana": "6"
+ },
+ {
+  "id": "N36",
+  "modelo": "noticia",
+  "data": "2026-12-07",
+  "hora": "12:15",
+  "expira_em": "2026-12-09 12:00",
+  "titulo": "Antônio Prado: inscrições terminam na quarta (09/12)",
+  "materia": "Notícia • RS",
+  "tipo": "Últimos dias",
+  "fonte_fila": "Edital nº 070/2026 da Prefeitura de Antônio Prado • Legalle",
+  "fonte_conferida_em": "2026-11-20",
+  "selo": "ultimos",
+  "regiao": "RS",
+  "orgao": "PREFEITURA DE ANTÔNIO PRADO",
+  "local": "Serra Gaúcha • RS",
+  "cargo": "21 vagas + cadastro reserva",
+  "tam_cargo": 70,
+  "rotulo_salario": "Salários",
+  "salario": "R$ 2.091,19 a R$ 10.352,30",
+  "tam_salario": 50,
+  "faixa": "FUNDAMENTAL, MÉDIO E SUPERIOR",
+  "linhas": [
+   [
+    "cal",
+    "Inscrições",
+    "até quarta, 09/12, às 18h"
+   ],
+   [
+    "taxa",
+    "Taxa de inscrição",
+    "R$ 60 • R$ 80 • R$ 150"
+   ],
+   [
+    "prova",
+    "Prova objetiva (prevista)",
+    "24/01/2027"
+   ]
+  ],
+  "banca": "Legalle",
+  "fonte": "Edital nº 070/2026 (legalleconcursos.com.br)",
+  "legenda": "ÚLTIMOS DIAS: as inscrições do concurso da Prefeitura de Antônio Prado/RS terminam nesta quarta-feira, 09/12, às 18h.\n\nOnde estão as 21 vagas:\n🧹 Agente de Serviços Gerais: 8\n🔧 Agente de Manutenção e Reparos: 4\n🏫 Agente Educacional: 4\n🚜 Operador de Máquinas: 1\n🔩 Mecânico: 1\n💉 Enfermeiro: 1\n🩺 Médicos (Ginecologista e Psiquiatra): 1 cada\n\n💰 Salários de R$ 2.091,19 a R$ 10.352,30, conforme o cargo\n💳 Taxas: R$ 60 (fundamental), R$ 80 (médio) e R$ 150 (superior)\n📝 Prova objetiva: prevista para 24/01/2027\n\nInscrição pelo site da Legalle Concursos.\n\n📰 Fonte: Edital nº 070/2026 da Prefeitura de Antônio Prado, organizado pela Legalle Concursos (legalleconcursos.com.br). Leia o edital antes de se inscrever.\n\n📌 Mande para quem é da Serra e ainda não se inscreveu.\n📲 Questões comentadas e grátis no app: link na bio.\n\n#antonioprado #concursosrs #legalle #concursoprefeitura #serragaucha #ultimosdias",
+  "semana": "7"
+ },
+ {
+  "id": "N37",
+  "modelo": "noticia",
+  "data": "2026-12-07",
+  "hora": "19:00",
+  "expira_em": "2026-12-09 09:00",
+  "titulo": "Câmara de Soledade: inscrições terminam na quarta (09/12)",
+  "materia": "Notícia • RS",
+  "tipo": "Últimos dias",
+  "fonte_fila": "Edital nº 01/2026 da Câmara de Soledade • Objetiva",
+  "fonte_conferida_em": "2026-11-20",
+  "selo": "ultimos",
+  "regiao": "RS",
+  "orgao": "CÂMARA DE SOLEDADE",
+  "local": "Soledade • RS",
+  "cargo": "5 vagas + cadastro reserva",
+  "tam_cargo": 70,
+  "rotulo_salario": "Salários",
+  "salario": "R$ 2.144,89 a R$ 4.381,00",
+  "tam_salario": 52,
+  "faixa": "NÍVEL MÉDIO, TÉCNICO E SUPERIOR",
+  "linhas": [
+   [
+    "cal",
+    "Inscrições",
+    "até quarta, 09/12, às 13h"
+   ],
+   [
+    "taxa",
+    "Taxa de inscrição",
+    "R$ 100 • R$ 120 • R$ 150"
+   ],
+   [
+    "prova",
+    "Prova objetiva",
+    "24/01/2027"
+   ]
+  ],
+  "banca": "Objetiva Concursos",
+  "fonte": "Edital nº 01/2026 (concursos.objetivas.com.br)",
+  "legenda": "ÚLTIMOS DIAS: as inscrições do concurso da Câmara Municipal de Soledade/RS terminam nesta quarta-feira, 09/12, às 13h.\n\n🎓 Nível médio (taxa de R$ 100): Agente Administrativo Auxiliar, Auxiliar Legislativo e Motorista\n🎓 Técnico ou superior em Contabilidade ou Administração (taxa de R$ 120): Oficial de Apoio Administrativo\n🎓 Nível superior (taxa de R$ 150): Contador\n\n💰 Salários de R$ 2.144,89 a R$ 4.381,00\n📝 Prova objetiva: 24/01/2027, em Soledade\n\nInscrição pelo site da Objetiva Concursos. Atenção ao horário: termina às 13h.\n\n📰 Fonte: Edital nº 01/2026 da Câmara Municipal de Soledade, organizado pela Objetiva Concursos (concursos.objetivas.com.br). Leia o edital antes de se inscrever.\n\n📌 Mande para quem é da região e ainda não se inscreveu.\n📲 Questões comentadas e grátis no app: link na bio.\n\n#soledade #concursosrs #camaramunicipal #objetivaconcursos #concursopublico #ultimosdias",
+  "semana": "7"
+ },
+ {
+  "id": "Q07",
+  "modelo": "questao",
+  "data": "2026-12-08",
+  "hora": "19:00",
+  "titulo": "Questão do dia: direitos sociais do art. 6º",
+  "materia": "Questão • Direito Constitucional",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo Fundatec) • CF, art. 6º",
+  "fonte_conferida_em": "2026-11-20",
+  "selo": "questao",
+  "regiao": "CONSTITUCIONAL",
+  "questao": {
+   "chip": "Direito Constitucional • estilo Fundatec • nível médio",
+   "enunciado": "De acordo com o art. 6º da Constituição Federal, NÃO está entre os direitos sociais:",
+   "alternativas": [
+    "a moradia.",
+    "o transporte.",
+    "a alimentação.",
+    "a propriedade.",
+    "o lazer."
+   ],
+   "correta": 3,
+   "tam_explicacao": 32,
+   "explicacao": "O art. 6º lista: <b>educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência social</b>, proteção à maternidade e à infância e assistência aos desamparados.<br><br>A <b>propriedade</b> é direito individual, garantido no <b>art. 5º</b>.<br><br>Pegadinha: moradia, alimentação e transporte entraram depois, por emendas.",
+   "fundamento": "Constituição Federal, arts. 5º e 6º (ECs 26/2000, 64/2010 e 90/2015)."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 A lista dos direitos sociais do art. 6º cai muito, e as bancas adoram misturar com direitos do art. 5º.\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca Fundatec (não é de prova oficial). Base: Constituição Federal, art. 6º.\n\n📲 Quer treinar mais? Tem milhares de questões comentadas, de graça, no nosso app: link na bio.\n📌 Salve para revisar antes da prova.\n\n#questaodeconcurso #direitoconstitucional #constituicao #fundatec #concursosrs #concursopublico",
+  "semana": "7"
+ },
+ {
+  "id": "Q08",
+  "modelo": "questao",
+  "data": "2026-12-10",
+  "hora": "19:00",
+  "titulo": "Questão do dia: aumento e desconto de 10%",
+  "materia": "Questão • Matemática",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo Fundatec) • porcentagem",
+  "fonte_conferida_em": "2026-11-20",
+  "selo": "questao",
+  "regiao": "MATEMÁTICA",
+  "questao": {
+   "chip": "Matemática • estilo Fundatec • nível fundamental",
+   "enunciado": "Um produto custava R$ 200,00. Teve um aumento de 10% e, depois, um desconto de 10% sobre o novo preço. Qual é o preço final?",
+   "alternativas": [
+    "R$ 200,00",
+    "R$ 198,00",
+    "R$ 202,00",
+    "R$ 180,00",
+    "R$ 196,00"
+   ],
+   "correta": 1,
+   "tam_explicacao": 34,
+   "explicacao": "Aumento de 10%: 200 + 20 = <b>R$ 220,00</b>.<br>Desconto de 10% sobre 220: 220 − 22 = <b>R$ 198,00</b>.<br><br>O desconto é calculado sobre um valor <b>maior</b>, por isso não volta aos R$ 200,00.<br><br>Atalho: 200 × 1,1 × 0,9 = 198.",
+   "fundamento": "porcentagem, aumentos e descontos sucessivos."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 Sobe 10% e desce 10%: volta ao mesmo preço? Muita gente marca a letra A sem fazer a conta.\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca Fundatec (não é de prova oficial).\n\n📲 Quer treinar mais? Tem milhares de questões comentadas, de graça, no nosso app: link na bio.\n📌 Salve e mande para quem diz que é ruim de matemática.\n\n#questaodeconcurso #matematicaparaconcursos #porcentagem #fundatec #concursosrs #concursopublico",
+  "semana": "7"
+ },
+ {
+  "id": "N38",
+  "modelo": "noticia",
+  "data": "2026-12-11",
+  "hora": "19:00",
+  "expira_em": "2026-12-14 12:00",
+  "titulo": "Residência em Porto Alegre: inscrições terminam na segunda (14/12)",
+  "materia": "Notícia • RS",
+  "tipo": "Últimos dias",
+  "fonte_fila": "Edital de Abertura nº 129/2026 da Prefeitura de Porto Alegre • Fundatec",
+  "fonte_conferida_em": "2026-11-20",
+  "selo": "ultimos",
+  "regiao": "RS",
+  "orgao": "PREFEITURA DE PORTO ALEGRE",
+  "local": "Processo seletivo • residência",
+  "cargo": "Residência Técnico-Superior",
+  "tam_cargo": 70,
+  "rotulo_salario": "Bolsa-<br>auxílio",
+  "salario": "R$ 2.500,00",
+  "faixa": "SUPERIOR COMPLETO • 37 VAGAS + CADASTRO RESERVA",
+  "tam_faixa": 30,
+  "linhas": [
+   [
+    "cal",
+    "Inscrições",
+    "até segunda, 14/12, às 17h"
+   ],
+   [
+    "taxa",
+    "Taxa de inscrição",
+    "R$ 102,68"
+   ],
+   [
+    "prova",
+    "Prova objetiva (data provável)",
+    "24/01/2027"
+   ]
+  ],
+  "banca": "Fundatec",
+  "fonte": "Edital de Abertura nº 129/2026 (fundatec.org.br)",
+  "legenda": "ÚLTIMOS DIAS: as inscrições para a Residência Técnico-Superior da Prefeitura de Porto Alegre terminam nesta segunda-feira, 14/12, às 17h.\n\n📊 Administração: 10 vagas\n🏛️ Arquitetura: 10 vagas\n🏗️ Engenharia Civil: 10 vagas\n🧾 Contabilidade: 5 vagas\n⚡ Engenharia Elétrica: 2 vagas\n\n🎓 Para quem tem curso superior completo na área, concluído há no máximo 5 anos\n💰 Bolsa-auxílio de R$ 2.500,00 por mês, mais auxílio-transporte, por 30 horas semanais\n💳 Taxa: R$ 102,68\n📝 Prova objetiva: data provável em 24/01/2027\n\nInscrição pelo site da Fundatec.\n\n📰 Fonte: Edital de Abertura nº 129/2026 da Prefeitura de Porto Alegre, organizado pela Fundatec (fundatec.org.br). Leia o edital antes de se inscrever.\n\n📌 Mande para quem se formou há pouco e ainda não se inscreveu.\n📲 Questões comentadas e grátis no app: link na bio.\n\n#portoalegre #concursosrs #fundatec #processoseletivo #residencia #ultimosdias",
+  "semana": "7"
+ },
+ {
+  "id": "N39",
+  "modelo": "noticia",
+  "data": "2026-12-16",
+  "hora": "12:15",
+  "expira_em": "2026-12-18 12:00",
+  "titulo": "Sede Nova: inscrições terminam na sexta (18/12)",
+  "materia": "Notícia • RS",
+  "tipo": "Últimos dias",
+  "fonte_fila": "Edital do Concurso Público nº 01/2026 da Prefeitura de Sede Nova • Fundatec",
+  "fonte_conferida_em": "2026-11-20",
+  "selo": "ultimos",
+  "regiao": "RS",
+  "orgao": "PREFEITURA DE SEDE NOVA",
+  "local": "Sede Nova • RS",
+  "cargo": "Motorista e Operador de Máquinas",
+  "tam_cargo": 66,
+  "rotulo_salario": "Vencimento<br>básico",
+  "salario": "R$ 4.090,20",
+  "faixa": "FUNDAMENTAL INCOMPLETO • 12 VAGAS (43 NO TOTAL)",
+  "tam_faixa": 30,
+  "linhas": [
+   [
+    "cal",
+    "Inscrições",
+    "até sexta, 18/12, às 17h"
+   ],
+   [
+    "taxa",
+    "Taxa de inscrição",
+    "R$ 70 • R$ 100 • R$ 140"
+   ],
+   [
+    "prova",
+    "Prova objetiva (data provável)",
+    "24/01/2027"
+   ]
+  ],
+  "banca": "Fundatec",
+  "fonte": "Edital do Concurso Público nº 01/2026 (fundatec.org.br)",
+  "legenda": "ÚLTIMOS DIAS: as inscrições do concurso da Prefeitura de Sede Nova/RS terminam nesta sexta-feira, 18/12, às 17h.\n\n🚛 Motorista: 6 vagas (CNH D) • R$ 4.090,20\n🚜 Operador de Máquinas: 6 vagas (CNH C) • R$ 4.090,20\n🏫 Professor de Educação Infantil e Séries Iniciais: 9 vagas • R$ 2.853,39\n🧒 Atendente Educacional: 8 vagas • R$ 2.385,95\n📚 Monitor Auxiliar: 5 vagas • R$ 2.726,80\n🎓 E mais vagas de nível técnico e superior\n\n💰 Vencimentos de R$ 2.045,10 a R$ 9.339,29\n💳 Taxas: R$ 70 (fundamental), R$ 100 (médio/técnico) e R$ 140 (superior)\n📝 Prova objetiva: data provável em 24/01/2027\n\nInscrição pelo site da Fundatec.\n\n📰 Fonte: Edital de Abertura do Concurso Público nº 01/2026 da Prefeitura de Sede Nova, organizado pela Fundatec (fundatec.org.br). Leia o edital antes de se inscrever.\n\n📌 Mande para quem é da região e ainda não se inscreveu.\n📲 Quer treinar no estilo Fundatec? Questões comentadas e grátis no app: link na bio.\n\n#sedenova #concursosrs #fundatec #concursoprefeitura #concursopublico #ultimosdias",
+  "semana": "8"
+ },
+ {
+  "id": "N40",
+  "modelo": "noticia",
+  "data": "2026-12-19",
+  "hora": "19:00",
+  "expira_em": "2026-12-21 12:00",
+  "titulo": "IFFar: inscrições terminam na segunda (21/12)",
+  "materia": "Notícia • RS",
+  "tipo": "Últimos dias",
+  "fonte_fila": "Edital nº 406/2026 do IFFar • Fundatec",
+  "fonte_conferida_em": "2026-11-20",
+  "selo": "ultimos",
+  "regiao": "RS",
+  "orgao": "INSTITUTO FEDERAL FARROUPILHA",
+  "local": "IFFar • técnico-administrativos",
+  "cargo": "Assistente em Administração",
+  "tam_cargo": 74,
+  "rotulo_salario": "Vencimento<br>básico",
+  "salario": "R$ 3.181,39",
+  "faixa": "ENSINO MÉDIO • 4 VAGAS (30 NO TOTAL)",
+  "linhas": [
+   [
+    "cal",
+    "Inscrições",
+    "até segunda, 21/12/2026"
+   ],
+   [
+    "taxa",
+    "Taxa de inscrição",
+    "R$ 100 (médio) • R$ 120 (superior)"
+   ],
+   [
+    "prova",
+    "Prova objetiva",
+    "31/01/2027"
+   ]
+  ],
+  "banca": "Fundatec",
+  "fonte": "Edital nº 406/2026 do IFFar (fundatec.org.br)",
+  "legenda": "ÚLTIMOS DIAS: as inscrições do concurso do Instituto Federal Farroupilha (IFFar) terminam nesta segunda-feira, 21/12.\n\n🎓 Nível médio: Assistente em Administração\n• 4 vagas\n• Vencimento básico de R$ 3.181,39\n\n🎓 Nível superior (vencimento básico de R$ 5.215,39): Técnico em Assuntos Educacionais, Odontólogo, Nutricionista, Enfermeiro, Analista de TI e outros\n• Médico (20h): R$ 4.976,27\n\n➕ Auxílio-alimentação de R$ 1.192,00 para 40h, além de outros benefícios\n💳 Taxas: R$ 100 (médio/técnico) e R$ 120 (superior)\n📝 Prova objetiva: 31/01/2027\n\nInscrição pelo site da Fundatec.\n\n📰 Fonte: Edital nº 406/2026 do IFFar, publicado no Diário Oficial da União e no site da Fundatec (fundatec.org.br). Leia o edital antes de se inscrever.\n\n📌 Mande para quem quer ser servidor federal no RS e ainda não se inscreveu.\n📲 Quer treinar no estilo Fundatec? Questões comentadas e grátis no app: link na bio.\n\n#iffar #concursosrs #fundatec #concursofederal #concursopublico #ultimosdias",
+  "semana": "8"
  }
 ]
