@@ -37,6 +37,7 @@ SELOS = {
     "agenda": ("AGENDA DA SEMANA", "#0b1020", "#ffd200"),
     "questao": ("QUESTÃO DO DIA", "#0b1020", "#ffd200"),
     "gratis": ("10 QUESTÕES GRÁTIS", "#15803d", "#fff"),
+    "blackfriday": ("BLACK FRIDAY", "#0b1020", "#ffd200"),
 }
 ICO = {
     "cal": '<rect x="3.5" y="5" width="17" height="16" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4"/><path d="M8 14h2M12 14h2M16 14h.5M8 17.5h2M12 17.5h2"/>',
@@ -100,7 +101,7 @@ def pag_noticia(n):
 <div class="sal"><small>{n["rotulo_salario"]}</small><i></i><b>{e(n["salario"])}</b></div>
 <div class="faixa">{e(n["faixa"])}</div>
 <div class="box ult">{linhas}</div>
-<div class="pe"><div><span class="arroba">@diretonaquestao</span><br><b>Banca:</b> {e(n["banca"])}</div><div><b>Fonte:</b> {e(n["fonte"])}</div></div>'''
+<div class="pe"><div><span class="arroba">@diretonaquestao</span><br>{n.get("pe_esq") or "<b>Banca:</b> " + e(n["banca"])}</div><div>{n.get("pe_dir") or "<b>Fonte:</b> " + e(n["fonte"])}</div></div>'''
     return casca(n, corpo, css)
 
 

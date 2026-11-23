@@ -1828,8 +1828,8 @@
  {
   "id": "Q14",
   "modelo": "questao",
-  "data": "2026-11-24",
-  "hora": "12:15",
+  "data": "2026-12-08",
+  "hora": "08:00",
   "titulo": "Questão do dia: atributos do ato administrativo",
   "materia": "Questão • Direito Administrativo",
   "tipo": "Questão do dia",
@@ -1888,7 +1888,7 @@
  {
   "id": "Q16",
   "modelo": "questao",
-  "data": "2026-11-25",
+  "data": "2026-12-08",
   "hora": "12:15",
   "titulo": "Questão do dia: regência verbal",
   "materia": "Questão • Português",
@@ -1948,8 +1948,8 @@
  {
   "id": "Q18",
   "modelo": "questao",
-  "data": "2026-11-26",
-  "hora": "19:00",
+  "data": "2026-12-09",
+  "hora": "08:00",
   "titulo": "Questão do dia: regra de três composta",
   "materia": "Questão • Matemática",
   "tipo": "Questão do dia",
@@ -1978,8 +1978,8 @@
  {
   "id": "Q19",
   "modelo": "questao",
-  "data": "2026-11-27",
-  "hora": "08:00",
+  "data": "2026-12-09",
+  "hora": "12:15",
   "titulo": "Questão do dia: prazo para tomar posse",
   "materia": "Questão • Direito Administrativo",
   "tipo": "Questão do dia",
@@ -2038,7 +2038,7 @@
  {
   "id": "Q21",
   "modelo": "questao",
-  "data": "2026-11-28",
+  "data": "2026-12-09",
   "hora": "19:00",
   "titulo": "Questão do dia: golpe do e-mail falso",
   "materia": "Questão • Informática",
@@ -2098,8 +2098,8 @@
  {
   "id": "Q23",
   "modelo": "questao",
-  "data": "2026-11-29",
-  "hora": "12:15",
+  "data": "2026-12-10",
+  "hora": "08:00",
   "titulo": "Questão do dia: a fim de ou afim?",
   "materia": "Questão • Português",
   "tipo": "Questão do dia",
@@ -2236,5 +2236,316 @@
   "pe_esq": "<b>Comente QUERO</b> 👇",
   "pe_dir": "Também funciona mandando<br><b>QUERO</b> no direct",
   "legenda": "🎁 QUER 10 QUESTÕES GRÁTIS? Comente QUERO aqui embaixo 👇\n\nEm segundos você recebe no direct o link do app Direto na Questão:\n\n✅ 10 questões grátis para começar, com gabarito comentado\n✅ Mais 10 questões grátis a cada 24 horas\n✅ Questões de concursos do RS e nacionais\n\nPrefere não comentar? Mande QUERO no nosso direct que funciona do mesmo jeito. O link também está na bio.\n\n📌 Salve este post e mande para quem está estudando para concurso.\n\n#concursopublico #questoesdeconcurso #concursosrs #estudarparaconcurso #diretonaquestao"
+ },
+ {
+  "modelo": "noticia",
+  "materia": "Oferta • Black Friday",
+  "tipo": "Black Friday",
+  "fonte_fila": "Oferta do app Direto na Questão (preço no Stripe: vitalício de Fundador R$ 149,90 até 30/11)",
+  "fonte_conferida_em": "2026-11-23",
+  "selo": "blackfriday",
+  "regiao": "BLACK FRIDAY",
+  "orgao": "DIRETO NA QUESTÃO",
+  "local": "App de questões comentadas • RS e Brasil",
+  "rotulo_salario": "Pagamento<br>único",
+  "salario": "R$ 149,90",
+  "faixa": "SÓ ATÉ SEGUNDA, 30/11 • DEPOIS, R$ 297",
+  "banca": "—",
+  "fonte": "diretonaquestao.pyetech.com.br",
+  "pe_esq": "<b>Mande BLACK</b> no direct 📩",
+  "pe_dir": "Garantia de 7 dias<br>ou seu dinheiro de volta",
+  "expira_em": "2026-11-30 23:50",
+  "semana": "5",
+  "id": "B01",
+  "data": "2026-11-24",
+  "hora": "12:15",
+  "titulo": "Black Friday: acesso vitalício por R$ 149,90",
+  "cargo": "Acesso vitalício de Fundador",
+  "tam_cargo": 72,
+  "linhas": [
+   [
+    "cal",
+    "Prazo",
+    "até segunda, 30/11, às 23h59"
+   ],
+   [
+    "taxa",
+    "Depois da Black Friday",
+    "o vitalício passa a R$ 297"
+   ],
+   [
+    "prova",
+    "O que você leva",
+    "17.620 questões comentadas, para sempre"
+   ]
+  ],
+  "legenda": "BLACK FRIDAY 🖤 Acesso vitalício ao app Direto na Questão por R$ 149,90, pagamento único. Só até segunda, 30/11, às 23h59.\n\n✅ 17.620 questões inéditas e comentadas\n✅ 21 bancas, incluindo Fundatec, Cebraspe, FCC, FGV e Legalle\n✅ Funciona sem internet no Android e no iPhone\n✅ Paga uma vez e nunca mais tem mensalidade\n\nÉ o nosso preço de Fundador. A partir de 01/12, o vitalício passa a R$ 297.\n\n🛡️ Garantia de 7 dias: se não gostar, pede o reembolso e recebe 100% de volta.\n\n📲 Mande BLACK no nosso direct que o link da oferta chega na hora (também está na bio).\n\n#blackfriday #concursopublico #concursosrs #questoesdeconcurso #fundatec #diretonaquestao"
+ },
+ {
+  "modelo": "noticia",
+  "materia": "Oferta • Black Friday",
+  "tipo": "Black Friday",
+  "fonte_fila": "Oferta do app Direto na Questão (preço no Stripe: vitalício de Fundador R$ 149,90 até 30/11)",
+  "fonte_conferida_em": "2026-11-23",
+  "selo": "blackfriday",
+  "regiao": "BLACK FRIDAY",
+  "orgao": "DIRETO NA QUESTÃO",
+  "local": "App de questões comentadas • RS e Brasil",
+  "rotulo_salario": "Pagamento<br>único",
+  "salario": "R$ 149,90",
+  "faixa": "SÓ ATÉ SEGUNDA, 30/11 • DEPOIS, R$ 297",
+  "banca": "—",
+  "fonte": "diretonaquestao.pyetech.com.br",
+  "pe_esq": "<b>Mande BLACK</b> no direct 📩",
+  "pe_dir": "Garantia de 7 dias<br>ou seu dinheiro de volta",
+  "expira_em": "2026-11-30 23:50",
+  "semana": "5",
+  "id": "B02",
+  "data": "2026-11-25",
+  "hora": "12:15",
+  "titulo": "Pelo preço de 6 meses, acesso para sempre",
+  "cargo": "6 meses de preço, acesso para sempre",
+  "tam_cargo": 62,
+  "linhas": [
+   [
+    "taxa",
+    "Mensal",
+    "R$ 24,90 por mês (6 meses = R$ 149,40)"
+   ],
+   [
+    "vagas",
+    "Vitalício de Fundador",
+    "R$ 149,90 uma vez só"
+   ],
+   [
+    "cal",
+    "Prazo",
+    "até segunda, 30/11, às 23h59"
+   ]
+  ],
+  "tam_linha": 34,
+  "legenda": "Faz a conta 🧮 Seis meses do plano mensal saem por R$ 149,40. O vitalício de Fundador sai por R$ 149,90, e você nunca mais paga.\n\nConcurso não tem data para acabar: tem edital que demora, prova que adia, nomeação que atrasa. Com o vitalício, você estuda até passar, sem boleto todo mês.\n\n⏰ Só até segunda, 30/11, às 23h59. Depois, o vitalício passa a R$ 297.\n\n🛡️ Garantia de 7 dias: se não gostar, pede o reembolso e recebe 100% de volta.\n\n📲 Mande BLACK no nosso direct que o link da oferta chega na hora (também está na bio).\n\n#blackfriday #concursopublico #concursosrs #questoesdeconcurso #fundatec #diretonaquestao"
+ },
+ {
+  "modelo": "noticia",
+  "materia": "Oferta • Black Friday",
+  "tipo": "Black Friday",
+  "fonte_fila": "Oferta do app Direto na Questão (preço no Stripe: vitalício de Fundador R$ 149,90 até 30/11)",
+  "fonte_conferida_em": "2026-11-23",
+  "selo": "blackfriday",
+  "regiao": "BLACK FRIDAY",
+  "orgao": "DIRETO NA QUESTÃO",
+  "local": "App de questões comentadas • RS e Brasil",
+  "rotulo_salario": "Pagamento<br>único",
+  "salario": "R$ 149,90",
+  "faixa": "SÓ ATÉ SEGUNDA, 30/11 • DEPOIS, R$ 297",
+  "banca": "—",
+  "fonte": "diretonaquestao.pyetech.com.br",
+  "pe_esq": "<b>Mande BLACK</b> no direct 📩",
+  "pe_dir": "Garantia de 7 dias<br>ou seu dinheiro de volta",
+  "expira_em": "2026-11-30 23:50",
+  "semana": "5",
+  "id": "B03",
+  "data": "2026-11-26",
+  "hora": "19:00",
+  "titulo": "O que vem no acesso vitalício",
+  "cargo": "17.620 questões, para sempre",
+  "tam_cargo": 70,
+  "linhas": [
+   [
+    "vagas",
+    "Bancas",
+    "21, com 1.413 questões no estilo Fundatec"
+   ],
+   [
+    "prova",
+    "Ferramentas",
+    "Prova Real, cadernos, caneta e Desafio do dia"
+   ],
+   [
+    "info",
+    "Sem internet",
+    "funciona offline no Android e no iPhone"
+   ]
+  ],
+  "tam_linha": 33,
+  "legenda": "O que você leva no acesso vitalício do Direto na Questão 👇\n\n📚 17.620 questões inéditas, todas com comentário\n🏛️ 21 bancas e 28 matérias (1.413 questões no estilo Fundatec)\n📝 Prova Real no perfil da banca, cadernos de erros, caneta para marcar o texto e Desafio do dia\n📶 Funciona sem internet no Android e no iPhone\n🔄 Questões novas e melhorias incluídas\n\nTudo isso por R$ 149,90, uma vez só, até segunda (30/11). Depois, R$ 297.\n\n🛡️ Garantia de 7 dias: se não gostar, pede o reembolso e recebe 100% de volta.\n\n📲 Mande BLACK no nosso direct que o link da oferta chega na hora (também está na bio).\n\n#blackfriday #concursopublico #concursosrs #questoesdeconcurso #fundatec #diretonaquestao"
+ },
+ {
+  "modelo": "noticia",
+  "materia": "Oferta • Black Friday",
+  "tipo": "Black Friday",
+  "fonte_fila": "Oferta do app Direto na Questão (preço no Stripe: vitalício de Fundador R$ 149,90 até 30/11)",
+  "fonte_conferida_em": "2026-11-23",
+  "selo": "blackfriday",
+  "regiao": "BLACK FRIDAY",
+  "orgao": "DIRETO NA QUESTÃO",
+  "local": "App de questões comentadas • RS e Brasil",
+  "rotulo_salario": "Pagamento<br>único",
+  "salario": "R$ 149,90",
+  "faixa": "SÓ ATÉ SEGUNDA, 30/11 • DEPOIS, R$ 297",
+  "banca": "—",
+  "fonte": "diretonaquestao.pyetech.com.br",
+  "pe_esq": "<b>Mande BLACK</b> no direct 📩",
+  "pe_dir": "Garantia de 7 dias<br>ou seu dinheiro de volta",
+  "expira_em": "2026-11-30 23:50",
+  "semana": "5",
+  "id": "B04",
+  "data": "2026-11-27",
+  "hora": "08:00",
+  "titulo": "É hoje: Black Friday do Direto na Questão",
+  "cargo": "É hoje: Black Friday",
+  "tam_cargo": 86,
+  "linhas": [
+   [
+    "vagas",
+    "Acesso vitalício",
+    "R$ 149,90, pagamento único"
+   ],
+   [
+    "cal",
+    "Vale até",
+    "segunda, 30/11, às 23h59"
+   ],
+   [
+    "taxa",
+    "A partir de 01/12",
+    "R$ 297"
+   ]
+  ],
+  "legenda": "É HOJE 🖤 Black Friday do Direto na Questão: acesso vitalício ao app por R$ 149,90, pagamento único.\n\nSem mensalidade, sem renovação, com todas as questões novas que entrarem no app. A oferta vai até segunda, 30/11, às 23h59. Depois, o vitalício passa a R$ 297.\n\n🛡️ Garantia de 7 dias: se não gostar, pede o reembolso e recebe 100% de volta.\n\n📲 Mande BLACK no nosso direct que o link da oferta chega na hora (também está na bio).\n\n📌 Mande este post para quem estuda com você.\n\n#blackfriday #concursopublico #concursosrs #questoesdeconcurso #fundatec #diretonaquestao"
+ },
+ {
+  "modelo": "noticia",
+  "materia": "Oferta • Black Friday",
+  "tipo": "Black Friday",
+  "fonte_fila": "Oferta do app Direto na Questão (preço no Stripe: vitalício de Fundador R$ 149,90 até 30/11)",
+  "fonte_conferida_em": "2026-11-23",
+  "selo": "blackfriday",
+  "regiao": "BLACK FRIDAY",
+  "orgao": "DIRETO NA QUESTÃO",
+  "local": "App de questões comentadas • RS e Brasil",
+  "rotulo_salario": "Para<br>testar",
+  "salario": "10 questões grátis",
+  "faixa": "SÓ ATÉ SEGUNDA, 30/11 • DEPOIS, R$ 297",
+  "banca": "—",
+  "fonte": "diretonaquestao.pyetech.com.br",
+  "pe_esq": "<b>Mande BLACK</b> no direct 📩",
+  "pe_dir": "Garantia de 7 dias<br>ou seu dinheiro de volta",
+  "expira_em": "2026-11-30 23:50",
+  "semana": "5",
+  "id": "B05",
+  "data": "2026-11-28",
+  "hora": "19:00",
+  "titulo": "Teste antes: 10 questões grátis + garantia de 7 dias",
+  "cargo": "Teste antes de pagar",
+  "tam_cargo": 86,
+  "tam_salario": 62,
+  "linhas": [
+   [
+    "prova",
+    "Passo 1",
+    "faça as 10 questões grátis do app"
+   ],
+   [
+    "vagas",
+    "Passo 2",
+    "gostou? vitalício por R$ 149,90"
+   ],
+   [
+    "info",
+    "Garantia",
+    "7 dias para pedir 100% de volta"
+   ]
+  ],
+  "legenda": "Ainda na dúvida? Teste antes 😉\n\n1️⃣ Crie sua conta e faça as 10 questões grátis do app, com gabarito comentado\n2️⃣ Gostou? Garanta o acesso vitalício por R$ 149,90 até segunda, 30/11\n3️⃣ Mesmo depois de pagar, você tem 7 dias para pedir o reembolso e receber 100% de volta\n\nDepois de 30/11, o vitalício passa a R$ 297.\n\n📲 Mande BLACK no nosso direct que o link da oferta chega na hora (também está na bio).\n\n#blackfriday #concursopublico #concursosrs #questoesdeconcurso #fundatec #diretonaquestao"
+ },
+ {
+  "modelo": "noticia",
+  "materia": "Oferta • Black Friday",
+  "tipo": "Black Friday",
+  "fonte_fila": "Oferta do app Direto na Questão (preço no Stripe: vitalício de Fundador R$ 149,90 até 30/11)",
+  "fonte_conferida_em": "2026-11-23",
+  "selo": "blackfriday",
+  "regiao": "BLACK FRIDAY",
+  "orgao": "DIRETO NA QUESTÃO",
+  "local": "App de questões comentadas • RS e Brasil",
+  "rotulo_salario": "Pagamento<br>único",
+  "salario": "R$ 149,90",
+  "faixa": "SÓ ATÉ SEGUNDA, 30/11 • DEPOIS, R$ 297",
+  "banca": "—",
+  "fonte": "diretonaquestao.pyetech.com.br",
+  "pe_esq": "<b>Mande BLACK</b> no direct 📩",
+  "pe_dir": "Garantia de 7 dias<br>ou seu dinheiro de volta",
+  "expira_em": "2026-11-30 23:50",
+  "semana": "5",
+  "id": "B06",
+  "data": "2026-11-29",
+  "hora": "12:15",
+  "titulo": "Falta 1 dia: vitalício por R$ 149,90",
+  "cargo": "Falta 1 dia",
+  "tam_cargo": 96,
+  "linhas": [
+   [
+    "cal",
+    "Acaba",
+    "segunda, 30/11, às 23h59"
+   ],
+   [
+    "vagas",
+    "Acesso vitalício",
+    "R$ 149,90, pagamento único"
+   ],
+   [
+    "taxa",
+    "A partir de 01/12",
+    "R$ 297"
+   ]
+  ],
+  "legenda": "FALTA 1 DIA ⏳ O acesso vitalício de Fundador por R$ 149,90 acaba amanhã, segunda (30/11), às 23h59.\n\nDepois disso, o vitalício passa a R$ 297. Quem garantir agora paga uma vez e estuda até passar, com todas as questões novas incluídas.\n\n🛡️ Garantia de 7 dias: se não gostar, pede o reembolso e recebe 100% de volta.\n\n📲 Mande BLACK no nosso direct que o link da oferta chega na hora (também está na bio).\n\n#blackfriday #concursopublico #concursosrs #questoesdeconcurso #fundatec #diretonaquestao"
+ },
+ {
+  "modelo": "noticia",
+  "materia": "Oferta • Black Friday",
+  "tipo": "Black Friday",
+  "fonte_fila": "Oferta do app Direto na Questão (preço no Stripe: vitalício de Fundador R$ 149,90 até 30/11)",
+  "fonte_conferida_em": "2026-11-23",
+  "selo": "blackfriday",
+  "regiao": "BLACK FRIDAY",
+  "orgao": "DIRETO NA QUESTÃO",
+  "local": "App de questões comentadas • RS e Brasil",
+  "rotulo_salario": "Pagamento<br>único",
+  "salario": "R$ 149,90",
+  "faixa": "SÓ ATÉ SEGUNDA, 30/11 • DEPOIS, R$ 297",
+  "banca": "—",
+  "fonte": "diretonaquestao.pyetech.com.br",
+  "pe_esq": "<b>Mande BLACK</b> no direct 📩",
+  "pe_dir": "Garantia de 7 dias<br>ou seu dinheiro de volta",
+  "expira_em": "2026-11-30 23:50",
+  "semana": "5",
+  "id": "B07",
+  "data": "2026-11-30",
+  "hora": "21:00",
+  "titulo": "Últimas horas: o preço de Fundador acaba hoje",
+  "cargo": "Últimas horas",
+  "tam_cargo": 96,
+  "linhas": [
+   [
+    "cal",
+    "Acaba hoje",
+    "às 23h59 (horário de Brasília)"
+   ],
+   [
+    "vagas",
+    "Acesso vitalício",
+    "R$ 149,90, pagamento único"
+   ],
+   [
+    "taxa",
+    "A partir de amanhã",
+    "R$ 297"
+   ]
+  ],
+  "legenda": "ÚLTIMAS HORAS 🚨 O acesso vitalício por R$ 149,90 acaba hoje, às 23h59 (horário de Brasília).\n\nAmanhã o vitalício passa a R$ 297. Se você ia deixar para depois, o depois é agora.\n\n🛡️ Garantia de 7 dias: se não gostar, pede o reembolso e recebe 100% de volta.\n\n📲 Mande BLACK no nosso direct que o link da oferta chega na hora (também está na bio).\n\n#blackfriday #concursopublico #concursosrs #questoesdeconcurso #fundatec #diretonaquestao"
  }
 ]
