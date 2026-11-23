@@ -24,6 +24,10 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
+          if [ ! -s "$RUNNER_TEMP/novo_token" ]; then
+            echo "Nenhum token novo para salvar (token do Facebook só é conferido)."
+            exit 0
+          fi
           if [ -z "$GH_TOKEN" ]; then
             echo "::warning::Segredo GH_PAT não configurado: o token foi renovado, mas não foi salvo. Configure o GH_PAT (veja o LEIA-ME)."
             exit 0
