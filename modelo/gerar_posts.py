@@ -36,6 +36,7 @@ SELOS = {
     "resultado": ("RESULTADO", "#7c3aed", "#fff"),
     "agenda": ("AGENDA DA SEMANA", "#0b1020", "#ffd200"),
     "questao": ("QUESTÃO DO DIA", "#0b1020", "#ffd200"),
+    "gratis": ("10 QUESTÕES GRÁTIS", "#15803d", "#fff"),
 }
 ICO = {
     "cal": '<rect x="3.5" y="5" width="17" height="16" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4"/><path d="M8 14h2M12 14h2M16 14h.5M8 17.5h2M12 17.5h2"/>',
@@ -122,7 +123,7 @@ def pag_agenda(n):
     corpo = f'''<div class="selo">{SELOS[n["selo"]][0]}</div>
 <div class="tit">{e(n["titulo_arte"])}</div><div class="sub">{e(n["subtitulo"])}</div>
 <div class="lista ult">{itens}</div>
-<div class="pe"><div><span class="arroba">@diretonaquestao</span><br><b>Salve</b> para não perder o prazo</div><div><b>Fonte:</b> {e(n["fonte"])}</div></div>'''
+<div class="pe"><div><span class="arroba">@diretonaquestao</span><br>{n.get("pe_esq", "<b>Salve</b> para não perder o prazo")}</div><div>{n.get("pe_dir") or "<b>Fonte:</b> " + e(n["fonte"])}</div></div>'''
     return casca(n, corpo, css)
 
 
