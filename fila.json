@@ -2428,6 +2428,30 @@
       "media_id": null,
       "fonte_conferida_em": "2026-11-23",
       "fonte": "Questão inédita do app Direto na Questão (estilo FGV) • Lei nº 14.133/2021, art. 28."
+    },
+    {
+      "id": "D01",
+      "semana": "5",
+      "materia": "Questão • Português",
+      "tipo": "Questão do dia",
+      "data": "2026-11-23",
+      "hora": "08:00",
+      "titulo": "Questão do dia: onde ou aonde?",
+      "slides": [
+        "posts/D01/slide-1.jpg",
+        "posts/D01/slide-2.jpg"
+      ],
+      "story": "posts/D01/story.jpg",
+      "legenda": "posts/D01/legenda.txt",
+      "legenda_texto": "QUESTÃO DO DIA 🧠 Onde ou aonde? Essa dúvida cai em prova de prefeitura do fundamental ao superior.\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nMacete: se dá para trocar por “para onde”, é “aonde”.\n\nQuestão inédita, feita no estilo da banca Fundatec (não é de prova oficial).\n\n📲 Experimente grátis: ganhe 10 questões no app Direto na Questão. Link na bio.\n📌 Salve e marque quem sempre confunde.\n\n#questaodeconcurso #portugues #ondeouaonde #fundatec #concursosrs #concursopublico",
+      "status": "aprovado",
+      "aprovado": true,
+      "aprovado_em": "2026-11-23T02:16:02-03:00",
+      "aprovado_por": "Admin (aprovado no chat)",
+      "publicado_em": null,
+      "media_id": null,
+      "fonte_conferida_em": "2026-11-23",
+      "fonte": "Questão inédita do app Direto na Questão (estilo Fundatec) • onde/aonde"
     }
   ]
 }
