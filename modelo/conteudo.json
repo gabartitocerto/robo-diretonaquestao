@@ -2154,5 +2154,35 @@
    "fundamento": "Lei nº 14.133/2021, art. 28."
   },
   "legenda": "QUESTÃO DO DIA 🧠 Quase toda prova de Direito Administrativo cobra a nova Lei de Licitações. Qual destas modalidades não existe mais?\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca FGV (não é de prova oficial).\n\n📲 Experimente grátis: ganhe 10 questões no app Direto na Questão. Link na bio.\n📌 Salve para revisar a Lei 14.133 e mande para quem estuda comigo.\n\n#questaodeconcurso #licitacoes #lei14133 #direitoadministrativo #fgv #concursopublico"
+ },
+ {
+  "id": "D01",
+  "modelo": "questao",
+  "data": "2026-11-23",
+  "hora": "08:00",
+  "titulo": "Questão do dia: onde ou aonde?",
+  "materia": "Questão • Português",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo Fundatec) • onde/aonde",
+  "fonte_conferida_em": "2026-11-23",
+  "selo": "questao",
+  "regiao": "PORTUGUÊS",
+  "semana": "5",
+  "questao": {
+   "chip": "Português • estilo Fundatec • onde/aonde",
+   "enunciado": "Está de acordo com a norma-padrão a frase:",
+   "alternativas": [
+    "Aonde você mora?",
+    "Onde você vai depois da prova?",
+    "Aonde fica a secretaria?",
+    "Aonde você quer chegar com isso?",
+    "Não sei aonde deixei a apostila."
+   ],
+   "correta": 3,
+   "tam_explicacao": 34,
+   "explicacao": "<b>Aonde</b> = a + onde. Vai com verbos de movimento que pedem a preposição “a”: ir <b>a</b>, chegar <b>a</b>, levar <b>a</b>.<br><br><b>Onde</b> indica lugar fixo: morar, ficar, estar, deixar <b>em</b>.<br><br>Por isso: “<b>Aonde</b> você quer chegar?”, mas “<b>Onde</b> você mora?”.",
+   "fundamento": "aonde = a + onde (movimento); onde = em que lugar (permanência)."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 Onde ou aonde? Essa dúvida cai em prova de prefeitura do fundamental ao superior.\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nMacete: se dá para trocar por “para onde”, é “aonde”.\n\nQuestão inédita, feita no estilo da banca Fundatec (não é de prova oficial).\n\n📲 Experimente grátis: ganhe 10 questões no app Direto na Questão. Link na bio.\n📌 Salve e marque quem sempre confunde.\n\n#questaodeconcurso #portugues #ondeouaonde #fundatec #concursosrs #concursopublico"
  }
 ]
