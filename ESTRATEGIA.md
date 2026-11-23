@@ -23,9 +23,9 @@ e destaca o cargo com mais vagas ou o de nível médio.
 
 ## Horários
 
-- **12:15** (hora do almoço) e **19:00** (depois do trabalho), todos os dias.
-- **Sábado 11:00**: agenda da semana.
-- No máximo 2 posts por dia. O robô nunca solta dois posts com menos de 2 horas de diferença.
+- **08:00** (café da manhã), **12:15** (hora do almoço) e **19:00** (depois do trabalho), todos os dias.
+- **Sábado 11:00**: agenda da semana. Domingo de manhã pode ser **09:00**.
+- Até 3 posts por dia (pedido do dono em 23/11/2026). O robô nunca solta dois posts com menos de 2 horas de diferença.
 
 ## Regras que não mudam
 
