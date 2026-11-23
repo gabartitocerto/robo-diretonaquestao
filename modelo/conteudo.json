@@ -1793,5 +1793,366 @@
    "fundamento": "Constituição Federal, art. 37, inciso III."
   },
   "legenda": "QUESTÃO DO DIA 🧠 Validade de concurso: cai em quase toda prova que tem Direito Constitucional ou Administrativo.\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nMacete: “até 2, mais uma vez igual”.\n\nQuestão inédita, feita no estilo da banca FCC (não é de prova oficial).\n\n📲 Quer treinar mais? Tem milhares de questões comentadas, de graça, no nosso app: link na bio.\n📌 Salve e marque quem vai fazer concurso em 2027.\n\n#questaodeconcurso #direitoconstitucional #art37 #fcc #concursosrs #concursopublico"
+ },
+ {
+  "id": "Q13",
+  "modelo": "questao",
+  "data": "2026-11-24",
+  "hora": "08:00",
+  "titulo": "Questão do dia: a contrapositiva",
+  "materia": "Questão • Raciocínio Lógico",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo FCC) • lógica proposicional, equivalência da condicional (contrapositiva).",
+  "fonte_conferida_em": "2026-11-23",
+  "selo": "questao",
+  "regiao": "RACIOCÍNIO",
+  "semana": "6",
+  "questao": {
+   "chip": "Raciocínio Lógico • estilo FCC",
+   "enunciado": "Considere verdadeira a frase: “Se o edital foi publicado, então as inscrições estão abertas.” Dela decorre, necessariamente, que:",
+   "alternativas": [
+    "Se as inscrições estão abertas, então o edital foi publicado.",
+    "Se o edital não foi publicado, então as inscrições não estão abertas.",
+    "O edital foi publicado e as inscrições não estão abertas.",
+    "Se as inscrições não estão abertas, então o edital não foi publicado.",
+    "O edital não foi publicado ou as inscrições não estão abertas."
+   ],
+   "correta": 3,
+   "tam_explicacao": 34,
+   "explicacao": "Na condicional “se <b>p</b>, então <b>q</b>”, a frase equivalente é a <b>contrapositiva</b>: “se <b>não q</b>, então <b>não p</b>”.<br><br>As letras A e B são a <b>recíproca</b> e a <b>inversa</b>: não são equivalentes. A letra C é a <b>negação</b> da frase dada.",
+   "fundamento": "lógica proposicional, equivalência da condicional (contrapositiva).",
+   "tam_enunciado": 36
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 Condicional é tema certo em prova de Raciocínio Lógico. Qual é a frase equivalente?\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca FCC (não é de prova oficial).\n\n📲 Experimente grátis: ganhe 10 questões no app Direto na Questão. Link na bio.\n📌 Salve e mande para quem estuda lógica com você.\n\n#questaodeconcurso #raciociniologico #logica #fcc #concursosrs #concursopublico"
+ },
+ {
+  "id": "Q14",
+  "modelo": "questao",
+  "data": "2026-11-24",
+  "hora": "12:15",
+  "titulo": "Questão do dia: atributos do ato administrativo",
+  "materia": "Questão • Direito Administrativo",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo Fundatec) • doutrina de Direito Administrativo, atributos do ato administrativo.",
+  "fonte_conferida_em": "2026-11-23",
+  "selo": "questao",
+  "regiao": "ADMINISTRATIVO",
+  "semana": "6",
+  "questao": {
+   "chip": "Direito Administrativo • atos administrativos • estilo Fundatec",
+   "enunciado": "O atributo do ato administrativo que permite à Administração executá-lo diretamente, sem precisar de ordem prévia do Poder Judiciário, é a:",
+   "alternativas": [
+    "autoexecutoriedade.",
+    "presunção de legitimidade.",
+    "tipicidade.",
+    "imperatividade.",
+    "vinculação."
+   ],
+   "correta": 0,
+   "tam_explicacao": 34,
+   "explicacao": "A <b>autoexecutoriedade</b> permite que a Administração execute o ato por conta própria. Exemplo: apreender mercadoria estragada.<br><br>A <b>imperatividade</b> impõe obrigações sem a concordância do particular. A <b>presunção de legitimidade</b> faz o ato valer até prova em contrário.",
+   "fundamento": "doutrina de Direito Administrativo, atributos do ato administrativo."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 Autoexecutoriedade, imperatividade, presunção de legitimidade... você sabe separar cada atributo?\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca Fundatec (não é de prova oficial).\n\n📲 Experimente grátis: ganhe 10 questões no app Direto na Questão. Link na bio.\n📌 Salve para revisar antes da prova e comente sua resposta.\n\n#questaodeconcurso #direitoadministrativo #atoadministrativo #fundatec #concursosrs #concursopublico"
+ },
+ {
+  "id": "Q15",
+  "modelo": "questao",
+  "data": "2026-11-25",
+  "hora": "08:00",
+  "titulo": "Questão do dia: a função SE no Excel",
+  "materia": "Questão • Informática",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo Objetiva) • Excel, função lógica SE.",
+  "fonte_conferida_em": "2026-11-23",
+  "selo": "questao",
+  "regiao": "INFORMÁTICA",
+  "semana": "6",
+  "questao": {
+   "chip": "Informática • planilhas • estilo Objetiva",
+   "enunciado": "Em uma planilha do Excel, as células A1, A2 e A3 contêm, respectivamente, 10, 20 e 30. O resultado da fórmula =SE(A1+A2>A3;\"Aprovado\";\"Reprovado\") é:",
+   "alternativas": [
+    "Aprovado",
+    "Reprovado",
+    "30",
+    "FALSO",
+    "#VALOR!"
+   ],
+   "correta": 1,
+   "tam_explicacao": 34,
+   "explicacao": "A1 + A2 = 10 + 20 = <b>30</b>. A condição é “30 <b>maior que</b> 30”, e isso é <b>falso</b>, porque os valores são iguais.<br><br>Quando a condição é falsa, a função SE devolve o <b>terceiro</b> argumento: <b>Reprovado</b>.",
+   "fundamento": "Excel, função lógica SE."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 A função SE cai muito em prova de Informática, e a pegadinha costuma estar no sinal de maior.\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca Objetiva (não é de prova oficial).\n\n📲 Experimente grátis: ganhe 10 questões no app Direto na Questão. Link na bio.\n📌 Salve e mande para quem treina Excel para concurso.\n\n#questaodeconcurso #informatica #excel #objetiva #concursosrs #concursopublico"
+ },
+ {
+  "id": "Q16",
+  "modelo": "questao",
+  "data": "2026-11-25",
+  "hora": "12:15",
+  "titulo": "Questão do dia: regência verbal",
+  "materia": "Questão • Português",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo Legalle) • regência verbal (assistir, preferir, chegar, esquecer, avisar).",
+  "fonte_conferida_em": "2026-11-23",
+  "selo": "questao",
+  "regiao": "PORTUGUÊS",
+  "semana": "6",
+  "questao": {
+   "chip": "Português • regência verbal • estilo Legalle",
+   "enunciado": "Assinale a frase que está de acordo com a norma-padrão quanto à regência verbal:",
+   "alternativas": [
+    "Prefiro mais estudar de manhã do que à noite.",
+    "Chegamos na prefeitura antes das oito.",
+    "Os candidatos assistiram ao sorteio na sede da prefeitura.",
+    "Esqueci do prazo de inscrição.",
+    "Avisei ele sobre o novo prazo."
+   ],
+   "correta": 2,
+   "tam_explicacao": 34,
+   "explicacao": "<b>Assistir</b> no sentido de “ver” pede a preposição <b>a</b>: assistiram <b>ao</b> sorteio.<br><br>Erros das outras: “prefiro estudar de manhã <b>a</b> estudar à noite” (sem “mais” e sem “do que”); “chegamos <b>à</b> prefeitura”; “esqueci <b>o</b> prazo”; “avisei-<b>o</b>”.",
+   "fundamento": "regência verbal (assistir, preferir, chegar, esquecer, avisar)."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 Cinco frases do dia a dia, só uma está certa pela norma-padrão. Qual?\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca Legalle (não é de prova oficial).\n\n📲 Experimente grátis: ganhe 10 questões no app Direto na Questão. Link na bio.\n📌 Salve e marque quem sempre erra o “chegar na”.\n\n#questaodeconcurso #portugues #regenciaverbal #legalle #concursosrs #concursopublico"
+ },
+ {
+  "id": "Q17",
+  "modelo": "questao",
+  "data": "2026-11-26",
+  "hora": "08:00",
+  "titulo": "Questão do dia: habeas data",
+  "materia": "Questão • Direito Constitucional",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo FGV) • Constituição Federal, art. 5º, inciso LXXII.",
+  "fonte_conferida_em": "2026-11-23",
+  "selo": "questao",
+  "regiao": "CONSTITUCIONAL",
+  "semana": "6",
+  "questao": {
+   "chip": "Direito Constitucional • remédios constitucionais • estilo FGV",
+   "enunciado": "De acordo com a Constituição Federal, o habeas data é concedido para:",
+   "alternativas": [
+    "proteger a liberdade de locomoção ameaçada por ilegalidade.",
+    "proteger direito líquido e certo não amparado por habeas corpus.",
+    "viabilizar direitos por falta de norma regulamentadora.",
+    "anular ato lesivo ao patrimônio público.",
+    "assegurar o conhecimento de informações pessoais constantes de registros ou bancos de dados de entidades públicas, e retificá-las."
+   ],
+   "correta": 4,
+   "tam_explicacao": 34,
+   "explicacao": "Art. 5º, LXXII: o <b>habeas data</b> serve para conhecer informações da <b>própria pessoa</b> em registros públicos e para <b>retificar</b> esses dados.<br><br>A: habeas corpus. B: mandado de segurança. C: mandado de injunção. D: ação popular.",
+   "fundamento": "Constituição Federal, art. 5º, inciso LXXII."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 Habeas corpus, mandado de segurança, habeas data... cada remédio protege uma coisa diferente.\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca FGV (não é de prova oficial).\n\n📲 Experimente grátis: ganhe 10 questões no app Direto na Questão. Link na bio.\n📌 Salve e mande para quem está estudando os remédios constitucionais.\n\n#questaodeconcurso #direitoconstitucional #habeasdata #fgv #concursosrs #concursopublico"
+ },
+ {
+  "id": "Q18",
+  "modelo": "questao",
+  "data": "2026-11-26",
+  "hora": "19:00",
+  "titulo": "Questão do dia: regra de três composta",
+  "materia": "Questão • Matemática",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo FCC) • regra de três composta (grandezas proporcionais).",
+  "fonte_conferida_em": "2026-11-23",
+  "selo": "questao",
+  "regiao": "MATEMÁTICA",
+  "semana": "6",
+  "questao": {
+   "chip": "Matemática • regra de três • estilo FCC",
+   "enunciado": "Em uma prefeitura, 6 servidores digitam 120 fichas em 4 horas. Mantido o mesmo ritmo, quantas horas 8 servidores levam para digitar 240 fichas?",
+   "alternativas": [
+    "3 horas",
+    "4 horas",
+    "5 horas",
+    "6 horas",
+    "8 horas"
+   ],
+   "correta": 3,
+   "tam_explicacao": 34,
+   "explicacao": "6 servidores digitam 120 fichas em 4 h: são 30 fichas por hora, ou <b>5 fichas por servidor</b> por hora.<br><br>8 servidores: 8 × 5 = <b>40 fichas por hora</b>.<br>240 ÷ 40 = <b>6 horas</b>.",
+   "fundamento": "regra de três composta (grandezas proporcionais)."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 Mais servidores, mais fichas: o tempo sobe ou desce? Faça a conta antes de olhar o gabarito.\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca FCC (não é de prova oficial).\n\n📲 Experimente grátis: ganhe 10 questões no app Direto na Questão. Link na bio.\n📌 Salve e mande para quem diz que regra de três é difícil.\n\n#questaodeconcurso #matematicaparaconcursos #regradetres #fcc #concursosrs #concursopublico"
+ },
+ {
+  "id": "Q19",
+  "modelo": "questao",
+  "data": "2026-11-27",
+  "hora": "08:00",
+  "titulo": "Questão do dia: prazo para tomar posse",
+  "materia": "Questão • Direito Administrativo",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo FGV) • Lei nº 8.112/1990, art. 13, § 1º, e art. 15, § 1º.",
+  "fonte_conferida_em": "2026-11-23",
+  "selo": "questao",
+  "regiao": "ADMINISTRATIVO",
+  "semana": "6",
+  "questao": {
+   "chip": "Direito Administrativo • Lei 8.112/1990 • estilo FGV",
+   "enunciado": "De acordo com a Lei nº 8.112/1990, a posse em cargo público federal deve ocorrer no prazo de:",
+   "alternativas": [
+    "10 dias, contados da nomeação.",
+    "15 dias, contados da publicação do ato de provimento.",
+    "30 dias, contados da publicação do ato de provimento.",
+    "60 dias, contados da publicação do ato de provimento.",
+    "90 dias, contados da homologação do concurso."
+   ],
+   "correta": 2,
+   "tam_explicacao": 34,
+   "explicacao": "Art. 13, § 1º: a posse ocorre em até <b>30 dias</b> contados da <b>publicação do ato de provimento</b>.<br><br>A pegadinha: o prazo de <b>15 dias</b> é o do <b>exercício</b>, contado da <b>data da posse</b> (art. 15, § 1º).",
+   "fundamento": "Lei nº 8.112/1990, art. 13, § 1º, e art. 15, § 1º."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 Posse e exercício têm prazos diferentes, e muita gente troca os números.\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca FGV (não é de prova oficial).\n\n📲 Experimente grátis: ganhe 10 questões no app Direto na Questão. Link na bio.\n📌 Salve para revisar a Lei 8.112 e comente sua resposta.\n\n#questaodeconcurso #lei8112 #direitoadministrativo #fgv #concursopublico #concursosfederais"
+ },
+ {
+  "id": "Q20",
+  "modelo": "questao",
+  "data": "2026-11-28",
+  "hora": "08:00",
+  "titulo": "Questão do dia: probabilidade sem reposição",
+  "materia": "Questão • Raciocínio Lógico",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo Objetiva) • probabilidade de eventos sucessivos, sem reposição.",
+  "fonte_conferida_em": "2026-11-23",
+  "selo": "questao",
+  "regiao": "RACIOCÍNIO",
+  "semana": "6",
+  "questao": {
+   "chip": "Raciocínio Lógico • probabilidade • estilo Objetiva",
+   "enunciado": "Uma urna tem 3 bolas vermelhas e 2 azuis. Sorteiam-se duas bolas, uma após a outra, sem reposição. A probabilidade de as duas serem azuis é:",
+   "alternativas": [
+    "4/25",
+    "1/10",
+    "1/5",
+    "2/5",
+    "3/10"
+   ],
+   "correta": 1,
+   "tam_explicacao": 34,
+   "explicacao": "Primeira bola azul: <b>2/5</b>. Sobrou 1 azul entre 4 bolas, então a segunda ser azul é <b>1/4</b>.<br><br>2/5 × 1/4 = 2/20 = <b>1/10</b>.<br><br>A letra A (4/25) seria o resultado <b>com reposição</b>.",
+   "fundamento": "probabilidade de eventos sucessivos, sem reposição."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 “Sem reposição” muda a conta: a segunda bola já não tem o mesmo cenário da primeira.\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca Objetiva (não é de prova oficial).\n\n📲 Experimente grátis: ganhe 10 questões no app Direto na Questão. Link na bio.\n📌 Salve e mande para o seu grupo de estudos.\n\n#questaodeconcurso #raciociniologico #probabilidade #objetiva #concursosrs #concursopublico"
+ },
+ {
+  "id": "Q21",
+  "modelo": "questao",
+  "data": "2026-11-28",
+  "hora": "19:00",
+  "titulo": "Questão do dia: golpe do e-mail falso",
+  "materia": "Questão • Informática",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo Cesgranrio) • segurança da informação, golpes e códigos maliciosos.",
+  "fonte_conferida_em": "2026-11-23",
+  "selo": "questao",
+  "regiao": "INFORMÁTICA",
+  "semana": "6",
+  "questao": {
+   "chip": "Informática • segurança da informação • estilo Cesgranrio",
+   "enunciado": "Um servidor recebe um e-mail com o logotipo de um banco pedindo que ele clique em um link e digite sua senha para “atualizar o cadastro”. O link leva a uma página falsa. Esse golpe é conhecido como:",
+   "alternativas": [
+    "ransomware.",
+    "keylogger.",
+    "sniffing.",
+    "backdoor.",
+    "phishing."
+   ],
+   "correta": 4,
+   "tam_explicacao": 34,
+   "explicacao": "<b>Phishing</b> é o golpe que usa mensagens e páginas falsas, parecidas com as de instituições reais, para roubar dados e senhas.<br><br><b>Ransomware</b> sequestra arquivos e exige resgate. <b>Keylogger</b> registra o que é digitado. <b>Sniffing</b> captura o tráfego da rede.",
+   "fundamento": "segurança da informação, golpes e códigos maliciosos."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 Banco, Caixa e Correios caem muito nesse tema. Você reconheceria o golpe?\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca Cesgranrio (não é de prova oficial).\n\n📲 Experimente grátis: ganhe 10 questões no app Direto na Questão. Link na bio.\n📌 Salve e mande para alguém que ainda clica em qualquer link.\n\n#questaodeconcurso #informatica #seguranca #cesgranrio #concursopublico #concursosrs"
+ },
+ {
+  "id": "Q22",
+  "modelo": "questao",
+  "data": "2026-11-29",
+  "hora": "09:00",
+  "titulo": "Questão do dia: voto facultativo",
+  "materia": "Questão • Direito Constitucional",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo Fundatec) • Constituição Federal, art. 14, § 1º e § 2º.",
+  "fonte_conferida_em": "2026-11-23",
+  "selo": "questao",
+  "regiao": "CONSTITUCIONAL",
+  "semana": "6",
+  "questao": {
+   "chip": "Direito Constitucional • direitos políticos • estilo Fundatec",
+   "enunciado": "Segundo a Constituição Federal, o alistamento eleitoral e o voto são facultativos para:",
+   "alternativas": [
+    "os maiores de 65 anos.",
+    "os maiores de 16 e menores de 18 anos.",
+    "os estrangeiros residentes no País.",
+    "os conscritos, durante o serviço militar obrigatório.",
+    "os maiores de 18 e menores de 70 anos."
+   ],
+   "correta": 1,
+   "tam_explicacao": 34,
+   "explicacao": "Art. 14, § 1º, II: o voto é <b>facultativo</b> para os <b>analfabetos</b>, os <b>maiores de 70 anos</b> e os <b>maiores de 16 e menores de 18 anos</b>.<br><br>Estrangeiros e conscritos <b>não podem</b> se alistar (§ 2º). Entre 18 e 70 anos, o voto é obrigatório.",
+   "fundamento": "Constituição Federal, art. 14, § 1º e § 2º."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 Voto obrigatório ou facultativo? A prova costuma trocar as idades para confundir.\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca Fundatec (não é de prova oficial).\n\n📲 Experimente grátis: ganhe 10 questões no app Direto na Questão. Link na bio.\n📌 Salve e comente sua resposta.\n\n#questaodeconcurso #direitoconstitucional #direitospoliticos #fundatec #concursosrs #concursopublico"
+ },
+ {
+  "id": "Q23",
+  "modelo": "questao",
+  "data": "2026-11-29",
+  "hora": "12:15",
+  "titulo": "Questão do dia: a fim de ou afim?",
+  "materia": "Questão • Português",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo Objetiva) • grafia: locução “a fim de” e adjetivo “afim”.",
+  "fonte_conferida_em": "2026-11-23",
+  "selo": "questao",
+  "regiao": "PORTUGUÊS",
+  "semana": "6",
+  "questao": {
+   "chip": "Português • grafia e sentido • estilo Objetiva",
+   "enunciado": "Assinale a alternativa que completa corretamente a frase: “Estudei todos os dias ___ ser aprovado no concurso.”",
+   "alternativas": [
+    "a fim de",
+    "afim de",
+    "à fim de",
+    "afim do",
+    "a fim do"
+   ],
+   "correta": 0,
+   "tam_explicacao": 34,
+   "explicacao": "<b>A fim de</b> é a locução (três palavras) que indica <b>finalidade</b>: estudei com o objetivo de ser aprovado.<br><br><b>Afim</b> (junto) é adjetivo e significa “semelhante”: cargos <b>afins</b>. Não existe crase em “à fim de”.",
+   "fundamento": "grafia: locução “a fim de” e adjetivo “afim”."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 “A fim de” ou “afim de”? É erro de escrita que reprova em redação e em prova de Português.\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca Objetiva (não é de prova oficial).\n\n📲 Experimente grátis: ganhe 10 questões no app Direto na Questão. Link na bio.\n📌 Salve e mande para quem escreve “afim de”.\n\n#questaodeconcurso #portugues #gramatica #objetiva #concursosrs #concursopublico"
+ },
+ {
+  "id": "Q24",
+  "modelo": "questao",
+  "data": "2026-12-07",
+  "hora": "08:00",
+  "titulo": "Questão do dia: modalidades de licitação",
+  "materia": "Questão • Direito Administrativo",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo FGV) • Lei nº 14.133/2021, art. 28.",
+  "fonte_conferida_em": "2026-11-23",
+  "selo": "questao",
+  "regiao": "ADMINISTRATIVO",
+  "semana": "7",
+  "questao": {
+   "chip": "Direito Administrativo • licitações • estilo FGV",
+   "enunciado": "Não é modalidade de licitação prevista na Lei nº 14.133/2021:",
+   "alternativas": [
+    "pregão.",
+    "concorrência.",
+    "leilão.",
+    "diálogo competitivo.",
+    "tomada de preços."
+   ],
+   "correta": 4,
+   "tam_explicacao": 34,
+   "explicacao": "Art. 28: as modalidades são <b>pregão</b>, <b>concorrência</b>, <b>concurso</b>, <b>leilão</b> e <b>diálogo competitivo</b>.<br><br><b>Tomada de preços</b> e <b>convite</b> eram da antiga Lei 8.666/1993 e não aparecem na nova lei.",
+   "fundamento": "Lei nº 14.133/2021, art. 28."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 Quase toda prova de Direito Administrativo cobra a nova Lei de Licitações. Qual destas modalidades não existe mais?\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca FGV (não é de prova oficial).\n\n📲 Experimente grátis: ganhe 10 questões no app Direto na Questão. Link na bio.\n📌 Salve para revisar a Lei 14.133 e mande para quem estuda comigo.\n\n#questaodeconcurso #licitacoes #lei14133 #direitoadministrativo #fgv #concursopublico"
  }
 ]
