@@ -32,7 +32,7 @@ e destaca o cargo com mais vagas ou o de nível médio.
 1. Toda notícia com a **fonte** na arte e na legenda (edital, Diário Oficial, site da banca ou do órgão).
 2. "EDITAL PUBLICADO" só quando o edital saiu. Antes disso é "CONCURSO PREVISTO".
 3. "ÚLTIMOS DIAS" só quando for verdade. O robô não publica notícia depois do prazo (`expira_em`).
-4. Nada vai ao ar sem aprovação.
+4. Posts da rotina automática (a cada 3 dias: notícias, agendas e questões do dia) entram já aprovados, por decisão do dono em 26/11/2026. Posts pausados continuam precisando de aprovação.
 5. Questão do dia é sempre identificada como inédita, "no estilo da banca". Nunca dizer que é de prova oficial.
 
 ## O que cada legenda tem
