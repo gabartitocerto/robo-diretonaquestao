@@ -2547,5 +2547,185 @@
    ]
   ],
   "legenda": "ÚLTIMAS HORAS 🚨 O acesso vitalício por R$ 149,90 acaba hoje, às 23h59 (horário de Brasília).\n\nAmanhã o vitalício passa a R$ 297. Se você ia deixar para depois, o depois é agora.\n\n🛡️ Garantia de 7 dias: se não gostar, pede o reembolso e recebe 100% de volta.\n\n📲 Mande BLACK no nosso direct que o link da oferta chega na hora (também está na bio).\n\n#blackfriday #concursopublico #concursosrs #questoesdeconcurso #fundatec #diretonaquestao"
+ },
+ {
+  "id": "Q25",
+  "modelo": "questao",
+  "data": "2026-12-10",
+  "hora": "12:15",
+  "titulo": "Questão do dia: a concordância verbal (verbos fazer e apassivadora)",
+  "materia": "Questão • Português",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo Fundatec) • Norma-padrão da língua portuguesa (concordância verbal).",
+  "fonte_conferida_em": "2026-11-28",
+  "selo": "questao",
+  "regiao": "PORTUGUÊS",
+  "semana": "8",
+  "questao": {
+   "chip": "Português • concordância verbal • estilo Fundatec",
+   "enunciado": "Assinale a alternativa em que a concordância verbal está de acordo com a norma-padrão:",
+   "alternativas": [
+    "Fazem dois anos que não o vejo.",
+    "Chegou ao setor os novos servidores.",
+    "Faz dois anos que não o vejo.",
+    "Existe vários problemas no setor.",
+    "Aluga-se casas na região."
+   ],
+   "correta": 2,
+   "tam_explicacao": 34,
+   "explicacao": "Com o verbo <b>fazer</b> indicando tempo decorrido, ele é impessoal e fica na 3ª pessoa do singular: <b>Faz</b> dois anos.<br><br>As outras estão erradas: <b>chegaram</b> os novos servidores; <b>existem</b> vários problemas; <b>alugam-se</b> casas (o sujeito é plural).",
+   "fundamento": "Norma-padrão da língua portuguesa (concordância verbal)."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 Tema que cai muito em prova: a concordância verbal (verbos fazer e apassivadora). Você acerta?\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca Fundatec (não é de prova oficial).\n\n📲 Quer 10 questões grátis? Mande QUERO no nosso direct que o link chega na hora (também está na bio).\n📌 Salve para revisar e mande para quem estuda com você.\n\n#questaodeconcurso #concordanciaverbal #portugues #fundatec #concursopublico"
+ },
+ {
+  "id": "Q26",
+  "modelo": "questao",
+  "data": "2026-12-11",
+  "hora": "08:00",
+  "titulo": "Questão do dia: inviolabilidade do domicílio (art. 5º, XI)",
+  "materia": "Questão • Direito Constitucional",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo Cebraspe) • Constituição Federal, art. 5º, XI.",
+  "fonte_conferida_em": "2026-11-28",
+  "selo": "questao",
+  "regiao": "CONSTITUCIONAL",
+  "semana": "8",
+  "questao": {
+   "chip": "Direito Constitucional • direitos fundamentais • estilo Cebraspe",
+   "enunciado": "Segundo o art. 5º, XI, da Constituição Federal, a casa é asilo inviolável do indivíduo. NÃO autoriza a entrada sem consentimento do morador:",
+   "alternativas": [
+    "o flagrante delito.",
+    "o desastre.",
+    "a prestação de socorro.",
+    "a determinação judicial, durante a noite.",
+    "a determinação judicial, durante o dia."
+   ],
+   "correta": 3,
+   "tam_explicacao": 34,
+   "explicacao": "Art. 5º, XI: sem consentimento do morador, só se entra em caso de <b>flagrante delito</b>, <b>desastre</b>, para <b>prestar socorro</b> ou, <b>durante o dia</b>, por <b>determinação judicial</b>.<br><br>A ordem judicial <b>à noite</b> não autoriza a entrada.",
+   "fundamento": "Constituição Federal, art. 5º, XI."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 Tema que cai muito em prova: inviolabilidade do domicílio (art. 5º, XI). Você acerta?\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca Cebraspe (não é de prova oficial).\n\n📲 Quer 10 questões grátis? Mande QUERO no nosso direct que o link chega na hora (também está na bio).\n📌 Salve para revisar e mande para quem estuda com você.\n\n#questaodeconcurso #direitoconstitucional #constituicaofederal #direitosfundamentais #cebraspe #concursopublico"
+ },
+ {
+  "id": "Q27",
+  "modelo": "questao",
+  "data": "2026-12-12",
+  "hora": "08:00",
+  "titulo": "Questão do dia: média aritmética",
+  "materia": "Questão • Raciocínio Lógico",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo Objetiva) • Média aritmética simples.",
+  "fonte_conferida_em": "2026-11-28",
+  "selo": "questao",
+  "regiao": "RACIOCÍNIO",
+  "semana": "8",
+  "questao": {
+   "chip": "Raciocínio Lógico • média aritmética • estilo Objetiva",
+   "enunciado": "As notas de um candidato em quatro provas foram 6, 7, 8 e 9. Para que a média aritmética das cinco provas seja 8, a nota da quinta prova deve ser:",
+   "alternativas": [
+    "7.",
+    "8.",
+    "9.",
+    "10.",
+    "11."
+   ],
+   "correta": 3,
+   "tam_explicacao": 34,
+   "explicacao": "Média 8 com 5 provas: a soma precisa ser 5 × 8 = <b>40</b>.<br><br>As quatro primeiras somam 6 + 7 + 8 + 9 = 30. Falta 40 − 30 = <b>10</b>.",
+   "fundamento": "Média aritmética simples."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 Tema que cai muito em prova: média aritmética. Você acerta?\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca Objetiva (não é de prova oficial).\n\n📲 Quer 10 questões grátis? Mande QUERO no nosso direct que o link chega na hora (também está na bio).\n📌 Salve para revisar e mande para quem estuda com você.\n\n#questaodeconcurso #raciociniologico #matematica #objetiva #concursopublico"
+ },
+ {
+  "id": "Q28",
+  "modelo": "questao",
+  "data": "2026-12-11",
+  "hora": "12:15",
+  "titulo": "Questão do dia: função MÉDIA no Excel",
+  "materia": "Questão • Informática",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo Legalle) • Função MÉDIA do Microsoft Excel.",
+  "fonte_conferida_em": "2026-11-28",
+  "selo": "questao",
+  "regiao": "INFORMÁTICA",
+  "semana": "8",
+  "questao": {
+   "chip": "Informática • Excel • estilo Legalle",
+   "enunciado": "Em uma planilha do Microsoft Excel, as células A1, A2, A3 e A4 contêm, respectivamente, os valores 3, 9, 5 e 7. O resultado da fórmula =MÉDIA(A1:A4) é:",
+   "alternativas": [
+    "5.",
+    "6.",
+    "7.",
+    "8.",
+    "24."
+   ],
+   "correta": 1,
+   "tam_explicacao": 34,
+   "explicacao": "A função <b>MÉDIA</b> soma os valores do intervalo e divide pela quantidade de células: (3 + 9 + 5 + 7) ÷ 4 = 24 ÷ 4 = <b>6</b>.<br><br>O valor 24 é o resultado de =SOMA(A1:A4), não da média.",
+   "fundamento": "Função MÉDIA do Microsoft Excel."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 Tema que cai muito em prova: função MÉDIA no Excel. Você acerta?\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca Legalle (não é de prova oficial).\n\n📲 Quer 10 questões grátis? Mande QUERO no nosso direct que o link chega na hora (também está na bio).\n📌 Salve para revisar e mande para quem estuda com você.\n\n#questaodeconcurso #informatica #excel #legalle #concursopublico"
+ },
+ {
+  "id": "Q29",
+  "modelo": "questao",
+  "data": "2026-12-12",
+  "hora": "11:00",
+  "titulo": "Questão do dia: estabilidade do servidor (art. 41)",
+  "materia": "Questão • Direito Administrativo",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo FCC) • Constituição Federal, art. 41, caput.",
+  "fonte_conferida_em": "2026-11-28",
+  "selo": "questao",
+  "regiao": "ADMINISTRATIVO",
+  "semana": "8",
+  "questao": {
+   "chip": "Direito Administrativo • servidores públicos • estilo FCC",
+   "enunciado": "De acordo com o art. 41 da Constituição Federal, são estáveis os servidores nomeados para cargo de provimento efetivo em virtude de concurso público após quanto tempo de efetivo exercício?",
+   "alternativas": [
+    "1 ano.",
+    "2 anos.",
+    "3 anos.",
+    "5 anos.",
+    "10 anos."
+   ],
+   "correta": 2,
+   "tam_explicacao": 34,
+   "explicacao": "CF, art. 41: são estáveis <b>após três anos</b> de efetivo exercício os servidores nomeados para cargo efetivo em virtude de concurso público.<br><br>Esse prazo foi fixado pela Emenda Constitucional 19/1998 (antes eram dois anos).",
+   "fundamento": "Constituição Federal, art. 41, caput."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 Tema que cai muito em prova: estabilidade do servidor (art. 41). Você acerta?\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca FCC (não é de prova oficial).\n\n📲 Quer 10 questões grátis? Mande QUERO no nosso direct que o link chega na hora (também está na bio).\n📌 Salve para revisar e mande para quem estuda com você.\n\n#questaodeconcurso #direitoadministrativo #servidorpublico #fcc #concursopublico"
+ },
+ {
+  "id": "Q30",
+  "modelo": "questao",
+  "data": "2026-12-12",
+  "hora": "19:00",
+  "titulo": "Questão do dia: juros simples",
+  "materia": "Questão • Matemática",
+  "tipo": "Questão do dia",
+  "fonte_fila": "Questão inédita do app Direto na Questão (estilo Fundatec) • Juros simples: M = C + C·i·t.",
+  "fonte_conferida_em": "2026-11-28",
+  "selo": "questao",
+  "regiao": "MATEMÁTICA",
+  "semana": "8",
+  "questao": {
+   "chip": "Matemática • juros simples • estilo Fundatec",
+   "enunciado": "Um capital de R$ 2.000,00 é aplicado a juros simples de 5% ao mês durante 4 meses. O montante ao final da aplicação é:",
+   "alternativas": [
+    "R$ 2.200,00.",
+    "R$ 2.400,00.",
+    "R$ 2.431,01.",
+    "R$ 2.500,00.",
+    "R$ 2.800,00."
+   ],
+   "correta": 1,
+   "tam_explicacao": 34,
+   "explicacao": "Juros simples: J = C · i · t = 2.000 × 0,05 × 4 = <b>R$ 400,00</b>.<br><br>Montante = 2.000 + 400 = <b>R$ 2.400,00</b>. O valor R$ 2.431,01 seria o de juros compostos.",
+   "fundamento": "Juros simples: M = C + C·i·t."
+  },
+  "legenda": "QUESTÃO DO DIA 🧠 Tema que cai muito em prova: juros simples. Você acerta?\n\nResponda nos comentários (A, B, C, D ou E) antes de arrastar para o lado. O gabarito comentado está no segundo slide.\n\nQuestão inédita, feita no estilo da banca Fundatec (não é de prova oficial).\n\n📲 Quer 10 questões grátis? Mande QUERO no nosso direct que o link chega na hora (também está na bio).\n📌 Salve para revisar e mande para quem estuda com você.\n\n#questaodeconcurso #matematica #jurossimples #fundatec #concursopublico"
  }
 ]
